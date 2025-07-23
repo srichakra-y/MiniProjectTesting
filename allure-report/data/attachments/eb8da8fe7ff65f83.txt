@@ -1,0 +1,51 @@
+Failed to click 'Add to Cart' button: locator.scrollIntoViewIfNeeded: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+    at addingItemToCart.addCartButton (C:\Users\2414383\Documents\Playwright_mini_project_final\pages\AddingItemToCart.js:18:44)
+    at C:\Users\2414383\Documents\Playwright_mini_project_final\tests\flipkart.spec.js:26:5 {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@13',
+    location: {
+      file: 'C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\AddingItemToCart.js',
+      line: 18,
+      column: 44,
+      function: 'addingItemToCart.addCartButton'
+    },
+    category: 'pw:api',
+    title: `Scroll into view locator('role=button[name="Add to cart"]')`,
+    apiName: 'locator.scrollIntoViewIfNeeded',
+    params: {
+      selector: 'role=button[name="Add to cart"]',
+      strict: true,
+      state: 'attached',
+      timeout: 0
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@13'
+    },
+    complete: [Function: complete],
+    endWallTime: 1751427013506,
+    error: {
+      message: 'Error: locator.scrollIntoViewIfNeeded: Element is not attached to the DOM\n' +
+        'Call log:\n' +
+        '\x1B[2m  - attempting scroll into view action\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be stable\x1B[22m\n',
+      stack: 'Error: locator.scrollIntoViewIfNeeded: Element is not attached to the DOM\n' +
+        'Call log:\n' +
+        '\x1B[2m  - attempting scroll into view action\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be stable\x1B[22m\n' +
+        '\n' +
+        '    at addingItemToCart.addCartButton (C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\AddingItemToCart.js:18:44)\n' +
+        '    at C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\tests\\flipkart.spec.js:26:5',
+      cause: undefined
+    }
+  }
+}

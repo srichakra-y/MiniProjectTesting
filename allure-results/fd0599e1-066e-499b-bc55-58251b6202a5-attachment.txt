@@ -1,0 +1,16 @@
+Error in gotoLoginPage(): page.goto: net::ERR_ABORTED at https://www.flipkart.com/
+Call log:
+  - navigating to "https://www.flipkart.com/", waiting until "load"
+
+    at SearchingForProducts.gotoLoginPage (C:\Users\2414383\Documents\Flipkart automation\pages\SearchingForProducts.js:17:33)
+    at C:\Users\2414383\Documents\Flipkart automation\tests\flipkart.spec.js:17:29 {
+  name: 'Error'
+}
+Error during test execution: page.goto: net::ERR_ABORTED at https://www.flipkart.com/
+Call log:
+  - navigating to "https://www.flipkart.com/", waiting until "load"
+
+    at SearchingForProducts.gotoLoginPage (C:\Users\2414383\Documents\Flipkart automation\pages\SearchingForProducts.js:17:33)
+    at C:\Users\2414383\Documents\Flipkart automation\tests\flipkart.spec.js:17:29 {
+  name: 'Error'
+}

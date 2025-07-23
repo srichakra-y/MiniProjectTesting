@@ -1,0 +1,5 @@
+Home Page validated
+Cart total after first item is added  ₹19,500
+Updated cart total after adding the second item 20057
+Net total after applying all charges and discounts 20057
+Amount is Properly Calculated

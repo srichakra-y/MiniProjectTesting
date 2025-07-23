@@ -1,0 +1,849 @@
+# Page snapshot
+
+```yaml
+- link "Flipkart":
+  - /url: /
+  - img "Flipkart"
+- link "Explore Plus":
+  - /url: /plus
+  - text: Explore Plus
+  - img
+- textbox "Search for products, brands and more": home appliances
+- button:
+  - img
+- link "Login":
+  - /url: /account/login?ret=/search%3Fq%3Dhome%2520appliances%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Doff%26as%3Doff
+- link "Become a Seller":
+  - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+- text: More
+- img
+- link "Cart":
+  - /url: /viewcart?exploreMode=true&preference=FLIPKART
+  - img
+  - text: Cart
+- text: Electronics
+- img
+- text: TVs & Appliances
+- img
+- text: Men
+- img
+- text: Women
+- img
+- text: Baby & Kids
+- img
+- text: Home & Furniture
+- img
+- text: Sports, Books & More
+- img
+- link "Flights":
+  - /url: /travel/flights?otracker=nmenu_Flights
+- link "Offer Zone":
+  - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+- text: Filters CATEGORIES
+- img
+- link "Home & Kitchen":
+  - /url: /home-kitchen/pr?sid=j9e&q=home+appliances&otracker=categorytree
+- link "Home Appliances":
+  - /url: /home-kitchen/home-appliances/pr?sid=j9e,abm&q=home+appliances&otracker=categorytree
+- link "Kitchen Appliances":
+  - /url: /home-kitchen/kitchen-appliances/pr?sid=j9e,m38&q=home+appliances&otracker=categorytree
+- text: Price . . . . . . .
+- combobox:
+  - option "Min" [selected]
+  - option "₹500"
+  - option "₹1000"
+  - option "₹5000"
+  - option "₹10000"
+  - option "₹25000"
+- text: to
+- combobox:
+  - option "₹500"
+  - option "₹1000"
+  - option "₹5000"
+  - option "₹10000"
+  - option "₹25000"
+  - option "₹25000+" [selected]
+- img
+- text: "? Brand"
+- img
+- img
+- textbox "Search Brand"
+- text: LG Singer Samsung Whirlpool Preethi MOTOROLA 3842 MORE Customer Ratings
+- img
+- text: 4★ & above 3★ & above Offers
+- img
+- text: Buy More, Save More Special Price Discount
+- img
+- text: Availability
+- img
+- link "Home":
+  - /url: /
+- img
+- link "Home & Kitchen":
+  - /url: /home-kitchen/pr?sid=j9e&marketplace=FLIPKART
+- text: Showing 1 – 40 of 21,574 results for "home appliances" Sort By Relevance Popularity Price -- Low to High Price -- High to Low Newest First
+- link "Aqua Fresh EPICAQUA ADJUSTER India 1st BIS (IS 16240 :2023) CM/L8100159306 15 L RO + UV + UF + ATDS Water Purifier with Prefilter":
+  - /url: /aqua-fresh-epicaqua-adjuster-india-1st-bis-is-16240-2023-cm-l8100159306-15-l-ro-uv-uf-atds-water-purifier-prefilter/p/itm4562130920c56?pid=WAPFJHYWBYVYKUVM&lid=LSTWAPFJHYWBYVYKUVMIYNT1U&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgPKLeDMvsQ_zSBOEWxKqIoKYj28Byuo6L_laNHq3PRhFw%3D%3D&ppt=sp&ppn=sp&qH=7dc6bf24b40e17e8
+  - img "Aqua Fresh EPICAQUA ADJUSTER India 1st BIS (IS 16240 :2023) CM/L8100159306 15 L RO + UV + UF + ATDS Water Purifier with Prefilter"
+  - img
+- img
+- link "Aqua Fresh EPICAQUA ADJUSTER India 1st BIS (IS 16240 :2...":
+  - /url: /aqua-fresh-epicaqua-adjuster-india-1st-bis-is-16240-2023-cm-l8100159306-15-l-ro-uv-uf-atds-water-purifier-prefilter/p/itm4562130920c56?pid=WAPFJHYWBYVYKUVM&lid=LSTWAPFJHYWBYVYKUVMIYNT1U&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgPKLeDMvsQ_zSBOEWxKqIoKYj28Byuo6L_laNHq3PRhFw%3D%3D&ppt=sp&ppn=sp&qH=7dc6bf24b40e17e8
+- text: White, Blue 4
+- img
+- text: (88,248)
+- img
+- link "₹3,718 ₹16,500 77% off":
+  - /url: /aqua-fresh-epicaqua-adjuster-india-1st-bis-is-16240-2023-cm-l8100159306-15-l-ro-uv-uf-atds-water-purifier-prefilter/p/itm4562130920c56?pid=WAPFJHYWBYVYKUVM&lid=LSTWAPFJHYWBYVYKUVMIYNT1U&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgPKLeDMvsQ_zSBOEWxKqIoKYj28Byuo6L_laNHq3PRhFw%3D%3D&ppt=sp&ppn=sp&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "Home-pro Stainless Steel Water Filter | Non Electric | Long Ceramic Candle 3 | 24 L Gravity Based Water Purifier":
+  - /url: /home-pro-stainless-steel-water-filter-non-electric-long-ceramic-candle-3-24-l-gravity-based-purifier/p/itmcbc2da7b5ea09?pid=WAPGPB6ZTCFFUHUJ&lid=LSTWAPGPB6ZTCFFUHUJ5URQH5&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgPTLAm201AerJsnDWLPFymY2W0ZCksc98cGgSRfy_NqNw%3D%3D&ppt=sp&ppn=sp&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Home-pro Stainless Steel Water Filter | Non Electric | Long Ceramic Candle 3 | 24 L Gravity Based Water Purifier"
+  - img
+- img
+- link "Home-pro Stainless Steel Water Filter | Non Electric | ...":
+  - /url: /home-pro-stainless-steel-water-filter-non-electric-long-ceramic-candle-3-24-l-gravity-based-purifier/p/itmcbc2da7b5ea09?pid=WAPGPB6ZTCFFUHUJ&lid=LSTWAPGPB6ZTCFFUHUJ5URQH5&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgPTLAm201AerJsnDWLPFymY2W0ZCksc98cGgSRfy_NqNw%3D%3D&ppt=sp&ppn=sp&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Silver 3.8
+- img
+- text: (6,005)
+- link "₹1,445 ₹4,776 69% off":
+  - /url: /home-pro-stainless-steel-water-filter-non-electric-long-ceramic-candle-3-24-l-gravity-based-purifier/p/itmcbc2da7b5ea09?pid=WAPGPB6ZTCFFUHUJ&lid=LSTWAPGPB6ZTCFFUHUJ5URQH5&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgPTLAm201AerJsnDWLPFymY2W0ZCksc98cGgSRfy_NqNw%3D%3D&ppt=sp&ppn=sp&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Wipro Elato GD203 1200 W Dry Iron":
+  - /url: /wipro-elato-gd203-1200-w-dry-iron/p/itm73706d23adb97?pid=IRNGHJ3ZYXDVXGGE&lid=LSTIRNGHJ3ZYXDVXGGESKXJ0P&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMlpjPKWbXVdCix8PBnSgWGCrIm6aBhTK0AjCvkM9qPkvUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Wipro Elato GD203 1200 W Dry Iron"
+  - img
+- img
+- link "Wipro Elato GD203 1200 W Dry Iron":
+  - /url: /wipro-elato-gd203-1200-w-dry-iron/p/itm73706d23adb97?pid=IRNGHJ3ZYXDVXGGE&lid=LSTIRNGHJ3ZYXDVXGGESKXJ0P&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMlpjPKWbXVdCix8PBnSgWGCrIm6aBhTK0AjCvkM9qPkvUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: White & Blue 4.2
+- img
+- text: (14,723)
+- img
+- link "₹1,049 ₹1,950 46% off":
+  - /url: /wipro-elato-gd203-1200-w-dry-iron/p/itm73706d23adb97?pid=IRNGHJ3ZYXDVXGGE&lid=LSTIRNGHJ3ZYXDVXGGESKXJ0P&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMlpjPKWbXVdCix8PBnSgWGCrIm6aBhTK0AjCvkM9qPkvUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "Voltas Beko I1000VD-BGWH 1000 W Dry Iron":
+  - /url: /voltas-beko-i1000vd-bgwh-1000-w-dry-iron/p/itm48a92e83a4d13?pid=IRNH769YHTZGPUMN&lid=LSTIRNH769YHTZGPUMNQBAQ7V&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNH769YHTZGPUMN.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Voltas Beko I1000VD-BGWH 1000 W Dry Iron"
+  - img
+- link "Voltas Beko I1000VD-BGWH 1000 W Dry Iron":
+  - /url: /voltas-beko-i1000vd-bgwh-1000-w-dry-iron/p/itm48a92e83a4d13?pid=IRNH769YHTZGPUMN&lid=LSTIRNH769YHTZGPUMNQBAQ7V&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNH769YHTZGPUMN.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Burgundy & White 4.2
+- img
+- text: (2,869)
+- img
+- link "₹419 ₹1,000 58% off":
+  - /url: /voltas-beko-i1000vd-bgwh-1000-w-dry-iron/p/itm48a92e83a4d13?pid=IRNH769YHTZGPUMN&lid=LSTIRNH769YHTZGPUMNQBAQ7V&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNH769YHTZGPUMN.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "HAVELLS GHGDICNK100 1000 W Dry Iron":
+  - /url: /havells-ghgdicnk100-1000-w-dry-iron/p/itmf981115f48a23?pid=IRNGQUSYGQZ2UQ4H&lid=LSTIRNGQUSYGQZ2UQ4H7PG6S0&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGQUSYGQZ2UQ4H.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "HAVELLS GHGDICNK100 1000 W Dry Iron"
+  - img
+- link "HAVELLS GHGDICNK100 1000 W Dry Iron":
+  - /url: /havells-ghgdicnk100-1000-w-dry-iron/p/itmf981115f48a23?pid=IRNGQUSYGQZ2UQ4H&lid=LSTIRNGQUSYGQZ2UQ4H7PG6S0&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGQUSYGQZ2UQ4H.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Black 4.3
+- img
+- text: (89,470)
+- img
+- link "₹633 ₹1,075 41% off":
+  - /url: /havells-ghgdicnk100-1000-w-dry-iron/p/itmf981115f48a23?pid=IRNGQUSYGQZ2UQ4H&lid=LSTIRNGQUSYGQZ2UQ4H7PG6S0&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGQUSYGQZ2UQ4H.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warranty, 5 Star 1200 mm 3 Blade Ceiling Fan":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm94478af309f06?pid=FANHFPVYPMJUBN5Z&lid=LSTFANHFPVYPMJUBN5ZGEGAGC&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPVYPMJUBN5Z.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warranty, 5 Star 1200 mm 3 Blade Ceiling Fan"
+  - img
+- link "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warra...":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm94478af309f06?pid=FANHFPVYPMJUBN5Z&lid=LSTFANHFPVYPMJUBN5ZGEGAGC&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPVYPMJUBN5Z.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: BLDC Motor with Remote | Gloss Black | Pack of 1 4.4
+- img
+- text: (32,301)
+- img
+- link "₹2,699 ₹4,820 44% off":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm94478af309f06?pid=FANHFPVYPMJUBN5Z&lid=LSTFANHFPVYPMJUBN5ZGEGAGC&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPVYPMJUBN5Z.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Orient Electric Fabripress DIFP10BP 1000 W Dry Iron":
+  - /url: /orient-electric-fabripress-difp10bp-1000-w-dry-iron/p/itm55ace50975311?pid=IRNEVTESQWWGWZZG&lid=LSTIRNEVTESQWWGWZZGYOHQE2&marketplace=FLIPKART&q=home+appliances&store=j9e&spotlightTagId=default_BestsellerId_j9e&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNEVTESQWWGWZZG.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Orient Electric Fabripress DIFP10BP 1000 W Dry Iron"
+  - img
+- link "Orient Electric Fabripress DIFP10BP 1000 W Dry Iron":
+  - /url: /orient-electric-fabripress-difp10bp-1000-w-dry-iron/p/itm55ace50975311?pid=IRNEVTESQWWGWZZG&lid=LSTIRNEVTESQWWGWZZGYOHQE2&marketplace=FLIPKART&q=home+appliances&store=j9e&spotlightTagId=default_BestsellerId_j9e&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNEVTESQWWGWZZG.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Turquoise, Black 4.2
+- img
+- text: (1,89,435)
+- img
+- link "₹499 ₹990 49% off":
+  - /url: /orient-electric-fabripress-difp10bp-1000-w-dry-iron/p/itm55ace50975311?pid=IRNEVTESQWWGWZZG&lid=LSTIRNEVTESQWWGWZZGYOHQE2&marketplace=FLIPKART&q=home+appliances&store=j9e&spotlightTagId=default_BestsellerId_j9e&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNEVTESQWWGWZZG.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "FADMAN MACHINE DIGITAL FOR WEIGHING HOUSEHOLD ITEMS Weighing Scale":
+  - /url: /fadman-machine-digital-weighing-household-items-scale/p/itme6cddee304227?pid=WSLFNNZYQ4JYKQHH&lid=LSTWSLFNNZYQ4JYKQHHGXLO59&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMEWYRxgo5jtRBBJgatIvwWMus_WW759fc5i5Mb19mxkQ%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "FADMAN MACHINE DIGITAL FOR WEIGHING HOUSEHOLD ITEMS Weighing Scale"
+  - img
+- img
+- link "FADMAN MACHINE DIGITAL FOR WEIGHING HOUSEHOLD ITEMS Wei...":
+  - /url: /fadman-machine-digital-weighing-household-items-scale/p/itme6cddee304227?pid=WSLFNNZYQ4JYKQHH&lid=LSTWSLFNNZYQ4JYKQHHGXLO59&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMEWYRxgo5jtRBBJgatIvwWMus_WW759fc5i5Mb19mxkQ%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Multicolor 4
+- img
+- text: (28,045)
+- img
+- link "₹250 ₹1,299 80% off":
+  - /url: /fadman-machine-digital-weighing-household-items-scale/p/itme6cddee304227?pid=WSLFNNZYQ4JYKQHH&lid=LSTWSLFNNZYQ4JYKQHHGXLO59&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMEWYRxgo5jtRBBJgatIvwWMus_WW759fc5i5Mb19mxkQ%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- link "BAJAJ Majesty DX 6 1000 W Dry Iron":
+  - /url: /bajaj-majesty-dx-6-1000-w-dry-iron/p/itm482c037e4fcc6?pid=IRNEFSJ4CJHXSUW8&lid=LSTIRNEFSJ4CJHXSUW8DHBWEZ&marketplace=FLIPKART&q=home+appliances&store=j9e&spotlightTagId=default_BestsellerId_j9e&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNEFSJ4CJHXSUW8.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "BAJAJ Majesty DX 6 1000 W Dry Iron"
+  - img
+- link "BAJAJ Majesty DX 6 1000 W Dry Iron":
+  - /url: /bajaj-majesty-dx-6-1000-w-dry-iron/p/itm482c037e4fcc6?pid=IRNEFSJ4CJHXSUW8&lid=LSTIRNEFSJ4CJHXSUW8DHBWEZ&marketplace=FLIPKART&q=home+appliances&store=j9e&spotlightTagId=default_BestsellerId_j9e&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNEFSJ4CJHXSUW8.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: White 4.3
+- img
+- text: (3,53,370)
+- img
+- link "₹602 ₹1,400 56% off":
+  - /url: /bajaj-majesty-dx-6-1000-w-dry-iron/p/itm482c037e4fcc6?pid=IRNEFSJ4CJHXSUW8&lid=LSTIRNEFSJ4CJHXSUW8DHBWEZ&marketplace=FLIPKART&q=home+appliances&store=j9e&spotlightTagId=default_BestsellerId_j9e&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNEFSJ4CJHXSUW8.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "Orient Electric Panache Plus DIPCP11LP 1100 W Dry Iron":
+  - /url: /orient-electric-panache-plus-dipcp11lp-1100-w-dry-iron/p/itma7dbb6c955a39?pid=IRNGDYFHVZJJVXGK&lid=LSTIRNGDYFHVZJJVXGKBHS8RL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGDYFHVZJJVXGK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Orient Electric Panache Plus DIPCP11LP 1100 W Dry Iron"
+  - img
+- link "Orient Electric Panache Plus DIPCP11LP 1100 W Dry Iron":
+  - /url: /orient-electric-panache-plus-dipcp11lp-1100-w-dry-iron/p/itma7dbb6c955a39?pid=IRNGDYFHVZJJVXGK&lid=LSTIRNGDYFHVZJJVXGKBHS8RL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGDYFHVZJJVXGK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: White, Purple 4.2
+- img
+- text: (1,89,435)
+- img
+- link "₹525 ₹1,040 49% off":
+  - /url: /orient-electric-panache-plus-dipcp11lp-1100-w-dry-iron/p/itma7dbb6c955a39?pid=IRNGDYFHVZJJVXGK&lid=LSTIRNGDYFHVZJJVXGKBHS8RL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGDYFHVZJJVXGK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "Nova Plus by Nova Amaze NI 10 1100 W Dry Iron":
+  - /url: /nova-plus-amaze-ni-10-1100-w-dry-iron/p/itm3d75edc4b96b7?pid=IRNF3QXRABEGM8WC&lid=LSTIRNF3QXRABEGM8WCLCLCY7&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMPMQDU6jeFyIvCy1X9HOqhY4i7y30Xh9iGnF2rjVXHPw%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Nova Plus by Nova Amaze NI 10 1100 W Dry Iron"
+  - img
+- img
+- link "Nova Plus by Nova Amaze NI 10 1100 W Dry Iron":
+  - /url: /nova-plus-amaze-ni-10-1100-w-dry-iron/p/itm3d75edc4b96b7?pid=IRNF3QXRABEGM8WC&lid=LSTIRNF3QXRABEGM8WCLCLCY7&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMPMQDU6jeFyIvCy1X9HOqhY4i7y30Xh9iGnF2rjVXHPw%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Grey & Turquoise 4.2
+- img
+- text: (3,67,186)
+- img
+- link "₹499 ₹899 44% off":
+  - /url: /nova-plus-amaze-ni-10-1100-w-dry-iron/p/itm3d75edc4b96b7?pid=IRNF3QXRABEGM8WC&lid=LSTIRNF3QXRABEGM8WCLCLCY7&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMPMQDU6jeFyIvCy1X9HOqhY4i7y30Xh9iGnF2rjVXHPw%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "Aqua Fresh Smoke Audi 18 ltr drink pure India 1st BIS (IS 16240 :2023) CM/L8100159306 18 L RO + UV + UF + TDS + ALK + Copper Water Purifier":
+  - /url: /aqua-fresh-smoke-audi-18-ltr-drink-pure-india-1st-bis-is-16240-2023-cm-l8100159306-l-ro-uv-uf-tds-alk-copper-water-purifier/p/itmc3da457d7de29?pid=WAPGW5YZQHM7EY3S&lid=LSTWAPGW5YZQHM7EY3SCZ8VWH&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgO-2D8B_asRO5RWe9fu2LyQaYrJLU5u_e3TINoi7HRVMg%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Aqua Fresh Smoke Audi 18 ltr drink pure India 1st BIS (IS 16240 :2023) CM/L8100159306 18 L RO + UV + UF + TDS + ALK + Copper Water Purifier"
+  - img
+- img
+- link "Aqua Fresh Smoke Audi 18 ltr drink pure India 1st BIS (...":
+  - /url: /aqua-fresh-smoke-audi-18-ltr-drink-pure-india-1st-bis-is-16240-2023-cm-l8100159306-l-ro-uv-uf-tds-alk-copper-water-purifier/p/itmc3da457d7de29?pid=WAPGW5YZQHM7EY3S&lid=LSTWAPGW5YZQHM7EY3SCZ8VWH&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgO-2D8B_asRO5RWe9fu2LyQaYrJLU5u_e3TINoi7HRVMg%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Smoke, Black 4
+- img
+- text: (88,248)
+- img
+- link "₹3,788 ₹16,500 77% off":
+  - /url: /aqua-fresh-smoke-audi-18-ltr-drink-pure-india-1st-bis-is-16240-2023-cm-l8100159306-l-ro-uv-uf-tds-alk-copper-water-purifier/p/itmc3da457d7de29?pid=WAPGW5YZQHM7EY3S&lid=LSTWAPGW5YZQHM7EY3SCZ8VWH&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgO-2D8B_asRO5RWe9fu2LyQaYrJLU5u_e3TINoi7HRVMg%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "Pigeon Pop-Up Toaster":
+  - /url: /pigeon-pop-up-toaster/p/itm6696a2e45c554?pid=PUTEAZG4JXX7DWVF&lid=LSTPUTEAZG4JXX7DWVF2TRJMD&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.PUTEAZG4JXX7DWVF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Pigeon Pop-Up Toaster"
+  - img
+- link "Pigeon Pop-Up Toaster":
+  - /url: /pigeon-pop-up-toaster/p/itm6696a2e45c554?pid=PUTEAZG4JXX7DWVF&lid=LSTPUTEAZG4JXX7DWVF2TRJMD&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.PUTEAZG4JXX7DWVF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: White 4.2
+- img
+- text: (27,718)
+- img
+- link "₹1,545 ₹1,895 18% off":
+  - /url: /pigeon-pop-up-toaster/p/itm6696a2e45c554?pid=PUTEAZG4JXX7DWVF&lid=LSTPUTEAZG4JXX7DWVF2TRJMD&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.PUTEAZG4JXX7DWVF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Only few left
+- link "Crompton DS 500 W Mixer Grinder":
+  - /url: /crompton-ds-500-w-mixer-grinder/p/itm5a5bd5bd974ce?pid=MIXGSF4YQSJYKR5J&lid=LSTMIXGSF4YQSJYKR5JDD5KSB&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMU-hflx7pafRR3Bapyx-A1PxTiIlov4pnyUV3-bRKMgdmEaX_1OVaDgohoY5ZV-y8%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Crompton DS 500 W Mixer Grinder"
+  - img
+- img
+- link "Crompton DS 500 W Mixer Grinder":
+  - /url: /crompton-ds-500-w-mixer-grinder/p/itm5a5bd5bd974ce?pid=MIXGSF4YQSJYKR5J&lid=LSTMIXGSF4YQSJYKR5JDD5KSB&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMU-hflx7pafRR3Bapyx-A1PxTiIlov4pnyUV3-bRKMgdmEaX_1OVaDgohoY5ZV-y8%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: ACGM-DS500W3J BLK | 3 Jars | Black & Grey 4.2
+- img
+- text: (23,266)
+- img
+- link "₹1,699 ₹3,500 51% off":
+  - /url: /crompton-ds-500-w-mixer-grinder/p/itm5a5bd5bd974ce?pid=MIXGSF4YQSJYKR5J&lid=LSTMIXGSF4YQSJYKR5JDD5KSB&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgMU-hflx7pafRR3Bapyx-A1PxTiIlov4pnyUV3-bRKMgdmEaX_1OVaDgohoY5ZV-y8%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "HAVELLS by Havells Dazzle 1100 W Dry Iron":
+  - /url: /havells-dazzle-1100-w-dry-iron/p/itmfd1a5de195292?pid=IRNGNX2DYWAUY6PX&lid=LSTIRNGNX2DYWAUY6PX0GMVJ2&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGNX2DYWAUY6PX.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "HAVELLS by Havells Dazzle 1100 W Dry Iron"
+  - img
+- link "HAVELLS by Havells Dazzle 1100 W Dry Iron":
+  - /url: /havells-dazzle-1100-w-dry-iron/p/itmfd1a5de195292?pid=IRNGNX2DYWAUY6PX&lid=LSTIRNGNX2DYWAUY6PX0GMVJ2&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGNX2DYWAUY6PX.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Black 4.3
+- img
+- text: (89,470)
+- img
+- link "₹699 ₹1,195 41% off":
+  - /url: /havells-dazzle-1100-w-dry-iron/p/itmfd1a5de195292?pid=IRNGNX2DYWAUY6PX&lid=LSTIRNGNX2DYWAUY6PX0GMVJ2&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGNX2DYWAUY6PX.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "AGARO Regal Hand-held Vacuum Cleaner Dry Vacuuming, 6.5 kPa Suction Power, Lightweight":
+  - /url: /agaro-regal-hand-held-vacuum-cleaner-dry-vacuuming-6-5-kpa-suction-power-lightweight/p/itmb6ccbb64a1de1?pid=VCLFHG5XQ8W3VJKG&lid=LSTVCLFHG5XQ8W3VJKGYOFJRY&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLFHG5XQ8W3VJKG.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "AGARO Regal Hand-held Vacuum Cleaner Dry Vacuuming, 6.5 kPa Suction Power, Lightweight"
+  - img
+- link "AGARO Regal Hand-held Vacuum Cleaner Dry Vacuuming, 6.5...":
+  - /url: /agaro-regal-hand-held-vacuum-cleaner-dry-vacuuming-6-5-kpa-suction-power-lightweight/p/itmb6ccbb64a1de1?pid=VCLFHG5XQ8W3VJKG&lid=LSTVCLFHG5XQ8W3VJKGYOFJRY&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLFHG5XQ8W3VJKG.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Black 4
+- img
+- text: (33,132)
+- img
+- link "₹1,699 ₹2,999 43% off":
+  - /url: /agaro-regal-hand-held-vacuum-cleaner-dry-vacuuming-6-5-kpa-suction-power-lightweight/p/itmb6ccbb64a1de1?pid=VCLFHG5XQ8W3VJKG&lid=LSTVCLFHG5XQ8W3VJKGYOFJRY&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLFHG5XQ8W3VJKG.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Upto ₹170 Off on Exchange
+- link "hybite Air Conditioner Remote Compatible for Voltas Split/Window AC with WiFi Function (Please Match The Image With Your Old Remote)Voltas AC Remote Controller":
+  - /url: /hybite-air-conditioner-remote-compatible-voltas-split-window-ac-wifi-function-please-match-image-your-old-remote-voltas-controller/p/itm9ed7a0255454b?pid=REMGYK74F8VE2GUY&lid=LSTREMGYK74F8VE2GUYYZVJ4W&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgNPD67FSmeanHn9NnCre8XheVMntXuN6LfbIxjSeM0_NQ%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "hybite Air Conditioner Remote Compatible for Voltas Split/Window AC with WiFi Function (Please Match The Image With Your Old Remote)Voltas AC Remote Controller"
+  - img
+- img
+- link "hybite Air Conditioner Remote Compatible for Voltas Spl...":
+  - /url: /hybite-air-conditioner-remote-compatible-voltas-split-window-ac-wifi-function-please-match-image-your-old-remote-voltas-controller/p/itm9ed7a0255454b?pid=REMGYK74F8VE2GUY&lid=LSTREMGYK74F8VE2GUYYZVJ4W&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgNPD67FSmeanHn9NnCre8XheVMntXuN6LfbIxjSeM0_NQ%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: White 4
+- img
+- text: (439)
+- img
+- link "₹300 ₹999 69% off":
+  - /url: /hybite-air-conditioner-remote-compatible-voltas-split-window-ac-wifi-function-please-match-image-your-old-remote-voltas-controller/p/itm9ed7a0255454b?pid=REMGYK74F8VE2GUY&lid=LSTREMGYK74F8VE2GUYYZVJ4W&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgNPD67FSmeanHn9NnCre8XheVMntXuN6LfbIxjSeM0_NQ%3D%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- link "Godrej 5-In-1-Convertible Cooling 2025 Model 1 Ton 3 Star Split Inverter With Heavy Duty Cooling At Extreme Temperature AC - White":
+  - /url: /godrej-5-in-1-convertible-cooling-2025-model-1-ton-3-star-split-inverter-heavy-duty-extreme-temperature-ac-white/p/itmd5626850d65b9?pid=ACNH7SAZXTBNFNHK&lid=LSTACNH7SAZXTBNFNHKBEGXQ9&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgNvz8Tm0c4FujrPTIJ6-qoDj5qZMJdF8dazjDci86rXWZ2-SIbIDZ6lLvgRS75Tj4w%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Godrej 5-In-1-Convertible Cooling 2025 Model 1 Ton 3 Star Split Inverter With Heavy Duty Cooling At Extreme Temperature AC - White"
+  - img
+- img
+- link "Godrej 5-In-1-Convertible Cooling 2025 Model 1 Ton 3 St...":
+  - /url: /godrej-5-in-1-convertible-cooling-2025-model-1-ton-3-star-split-inverter-heavy-duty-extreme-temperature-ac-white/p/itmd5626850d65b9?pid=ACNH7SAZXTBNFNHK&lid=LSTACNH7SAZXTBNFNHKBEGXQ9&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgNvz8Tm0c4FujrPTIJ6-qoDj5qZMJdF8dazjDci86rXWZ2-SIbIDZ6lLvgRS75Tj4w%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: AC 1T EI 12PINV3R32 WYQ, Copper Condenser 4
+- img
+- text: (6,250)
+- link "₹28,490 ₹41,900 32% off":
+  - /url: /godrej-5-in-1-convertible-cooling-2025-model-1-ton-3-star-split-inverter-heavy-duty-extreme-temperature-ac-white/p/itmd5626850d65b9?pid=ACNH7SAZXTBNFNHK&lid=LSTACNH7SAZXTBNFNHKBEGXQ9&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=en_uVT_4UIhKULHYiYaocgRd_02RQi-7XxyoBFvnM2UQgNvz8Tm0c4FujrPTIJ6-qoDj5qZMJdF8dazjDci86rXWZ2-SIbIDZ6lLvgRS75Tj4w%3D&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Whirlpool 7.5 kg Fully Automatic Top Load Washing Machine with In-built Heater Grey":
+  - /url: /whirlpool-7-5-kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm9fe0dcaaaf7bf?pid=WMNGVNUZJ5ZCAF6M&lid=LSTWMNGVNUZJ5ZCAF6MNC4AHM&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGVNUZJ5ZCAF6M.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Whirlpool 7.5 kg Fully Automatic Top Load Washing Machine with In-built Heater Grey"
+  - img
+- link "Whirlpool 7.5 kg Fully Automatic Top Load Washing Machi...":
+  - /url: /whirlpool-7-5-kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm9fe0dcaaaf7bf?pid=WMNGVNUZJ5ZCAF6M&lid=LSTWMNGVNUZJ5ZCAF6MNC4AHM&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGVNUZJ5ZCAF6M.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: MAGIC CLEAN PRO SW 7.5 (H) GREY 10YMW 4.1
+- img
+- text: (35,722)
+- img
+- link "₹18,240 ₹23,250 21% off":
+  - /url: /whirlpool-7-5-kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm9fe0dcaaaf7bf?pid=WMNGVNUZJ5ZCAF6M&lid=LSTWMNGVNUZJ5ZCAF6MNC4AHM&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGVNUZJ5ZCAF6M.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Pigeon Healthifry+ with 360 High Speed Air Circulation Technology 1200 W with Non-Stick Basket - Blue Air Fryer":
+  - /url: /pigeon-healthifry-360-high-speed-air-circulation-technology-1200-w-non-stick-basket-blue-fryer/p/itm7295e20480928?pid=AFRHF6RSP5SRBRXT&lid=LSTAFRHF6RSP5SRBRXTHMMQN0&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.AFRHF6RSP5SRBRXT.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Pigeon Healthifry+ with 360 High Speed Air Circulation Technology 1200 W with Non-Stick Basket - Blue Air Fryer"
+  - img
+- link "Pigeon Healthifry+ with 360 High Speed Air Circulation ...":
+  - /url: /pigeon-healthifry-360-high-speed-air-circulation-technology-1200-w-non-stick-basket-blue-fryer/p/itm7295e20480928?pid=AFRHF6RSP5SRBRXT&lid=LSTAFRHF6RSP5SRBRXTHMMQN0&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.AFRHF6RSP5SRBRXT.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: 4.2 L 3.9
+- img
+- text: (41,524)
+- link "₹2,699 ₹5,995 54% off":
+  - /url: /pigeon-healthifry-360-high-speed-air-circulation-technology-1200-w-non-stick-basket-blue-fryer/p/itm7295e20480928?pid=AFRHF6RSP5SRBRXT&lid=LSTAFRHF6RSP5SRBRXTHMMQN0&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.AFRHF6RSP5SRBRXT.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Orient Electric Ujala Prime 5 Star 1200 mm 3 Blade Ceiling Fan":
+  - /url: /orient-electric-ujala-prime-5-star-1200-mm-3-blade-ceiling-fan/p/itmb1f6b3390ae3c?pid=FANGTBF8GNTGAZQK&lid=LSTFANGTBF8GNTGAZQKISX1O6&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGTBF8GNTGAZQK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Orient Electric Ujala Prime 5 Star 1200 mm 3 Blade Ceiling Fan"
+  - img
+- link "Orient Electric Ujala Prime 5 Star 1200 mm 3 Blade Ceil...":
+  - /url: /orient-electric-ujala-prime-5-star-1200-mm-3-blade-ceiling-fan/p/itmb1f6b3390ae3c?pid=FANGTBF8GNTGAZQK&lid=LSTFANGTBF8GNTGAZQKISX1O6&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGTBF8GNTGAZQK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: BLDC Motor with Remote | Brown | Pack of 1 4.2
+- img
+- text: (20,267)
+- img
+- link "₹2,799 ₹4,600 39% off":
+  - /url: /orient-electric-ujala-prime-5-star-1200-mm-3-blade-ceiling-fan/p/itmb1f6b3390ae3c?pid=FANGTBF8GNTGAZQK&lid=LSTFANGTBF8GNTGAZQKISX1O6&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGTBF8GNTGAZQK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Pigeon Healthifry Digital with 360 High Speed Air Circulation Technology 1200 W with Non-Stick Basket - Green Air Fryer":
+  - /url: /pigeon-healthifry-digital-360-high-speed-air-circulation-technology-1200-w-non-stick-basket-green-fryer/p/itm8e46a49ec6824?pid=AFRGHDKDDU7BKRCM&lid=LSTAFRGHDKDDU7BKRCMCZDVNY&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.AFRGHDKDDU7BKRCM.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Pigeon Healthifry Digital with 360 High Speed Air Circulation Technology 1200 W with Non-Stick Basket - Green Air Fryer"
+  - img
+- link "Pigeon Healthifry Digital with 360 High Speed Air Circu...":
+  - /url: /pigeon-healthifry-digital-360-high-speed-air-circulation-technology-1200-w-non-stick-basket-green-fryer/p/itm8e46a49ec6824?pid=AFRGHDKDDU7BKRCM&lid=LSTAFRGHDKDDU7BKRCMCZDVNY&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.AFRGHDKDDU7BKRCM.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: 4.2 L 3.9
+- img
+- text: (41,524)
+- link "₹2,699 ₹5,995 54% off":
+  - /url: /pigeon-healthifry-digital-360-high-speed-air-circulation-technology-1200-w-non-stick-basket-green-fryer/p/itm8e46a49ec6824?pid=AFRGHDKDDU7BKRCM&lid=LSTAFRGHDKDDU7BKRCMCZDVNY&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.AFRGHDKDDU7BKRCM.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Bank Offer
+- link "Pigeon 19003232 1000 W Dry Iron":
+  - /url: /pigeon-19003232-1000-w-dry-iron/p/itm2906e07a95137?pid=IRNGMZQU9XTMYPQZ&lid=LSTIRNGMZQU9XTMYPQZOZ7G48&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGMZQU9XTMYPQZ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Pigeon 19003232 1000 W Dry Iron"
+  - img
+- link "Pigeon 19003232 1000 W Dry Iron":
+  - /url: /pigeon-19003232-1000-w-dry-iron/p/itm2906e07a95137?pid=IRNGMZQU9XTMYPQZ&lid=LSTIRNGMZQU9XTMYPQZOZ7G48&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGMZQU9XTMYPQZ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: White 4.1
+- img
+- text: (3,812)
+- img
+- link "₹399 ₹895 55% off":
+  - /url: /pigeon-19003232-1000-w-dry-iron/p/itm2906e07a95137?pid=IRNGMZQU9XTMYPQZ&lid=LSTIRNGMZQU9XTMYPQZOZ7G48&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNGMZQU9XTMYPQZ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "HAVELLS Ambrose ES 1 Star 1200 mm 3 Blade Ceiling Fan":
+  - /url: /havells-ambrose-es-1-star-1200-mm-3-blade-ceiling-fan/p/itmc2dffe6ec55ed?pid=FANGNCZZF2HWYKHP&lid=LSTFANGNCZZF2HWYKHP1A32TL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGNCZZF2HWYKHP.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "HAVELLS Ambrose ES 1 Star 1200 mm 3 Blade Ceiling Fan"
+  - img
+- link "HAVELLS Ambrose ES 1 Star 1200 mm 3 Blade Ceiling Fan":
+  - /url: /havells-ambrose-es-1-star-1200-mm-3-blade-ceiling-fan/p/itmc2dffe6ec55ed?pid=FANGNCZZF2HWYKHP&lid=LSTFANGNCZZF2HWYKHP1A32TL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGNCZZF2HWYKHP.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Energy Saving | Cola Espresso Brown | Pack of 1 4
+- img
+- text: (13,935)
+- img
+- link "₹2,209 ₹4,140 46% off":
+  - /url: /havells-ambrose-es-1-star-1200-mm-3-blade-ceiling-fan/p/itmc2dffe6ec55ed?pid=FANGNCZZF2HWYKHP&lid=LSTFANGNCZZF2HWYKHP1A32TL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGNCZZF2HWYKHP.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Pureit Wave Plus 7 L RO + UV + Minerals Water Purifier 6 Stage Filteration Upto 45% Water Recovery Wall Mountable Ideal for Borewell, Tanker & Municipal Water":
+  - /url: /pureit-wave-plus-7-l-ro-uv-minerals-water-purifier-6-stage-filteration-upto-45-recovery-wall-mountable-ideal-borewell-tanker-municipal/p/itm9fe1db769a572?pid=WAPHY898GYHAEXGK&lid=LSTWAPHY898GYHAEXGKV51LZL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_25&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WAPHY898GYHAEXGK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Pureit Wave Plus 7 L RO + UV + Minerals Water Purifier 6 Stage Filteration Upto 45% Water Recovery Wall Mountable Ideal for Borewell, Tanker & Municipal Water"
+  - img
+- link "Pureit Wave Plus 7 L RO + UV + Minerals Water Purifier ...":
+  - /url: /pureit-wave-plus-7-l-ro-uv-minerals-water-purifier-6-stage-filteration-upto-45-recovery-wall-mountable-ideal-borewell-tanker-municipal/p/itm9fe1db769a572?pid=WAPHY898GYHAEXGK&lid=LSTWAPHY898GYHAEXGKV51LZL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_25&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WAPHY898GYHAEXGK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Black 4.4
+- img
+- text: (7,386)
+- img
+- link "₹7,599 ₹13,499 43% off":
+  - /url: /pureit-wave-plus-7-l-ro-uv-minerals-water-purifier-6-stage-filteration-upto-45-recovery-wall-mountable-ideal-borewell-tanker-municipal/p/itm9fe1db769a572?pid=WAPHY898GYHAEXGK&lid=LSTWAPHY898GYHAEXGKV51LZL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_25&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WAPHY898GYHAEXGK.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Nova Plus by Nova Amaze NI 46 1200 W Dry Iron":
+  - /url: /nova-plus-amaze-ni-46-1200-w-dry-iron/p/itmbaa0fb70823f1?pid=IRNH3AAMCR6TBEYW&lid=LSTIRNH3AAMCR6TBEYWH8VQY2&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_26&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNH3AAMCR6TBEYW.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Nova Plus by Nova Amaze NI 46 1200 W Dry Iron"
+  - img
+- link "Nova Plus by Nova Amaze NI 46 1200 W Dry Iron":
+  - /url: /nova-plus-amaze-ni-46-1200-w-dry-iron/p/itmbaa0fb70823f1?pid=IRNH3AAMCR6TBEYW&lid=LSTIRNH3AAMCR6TBEYWH8VQY2&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_26&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNH3AAMCR6TBEYW.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Black 4.2
+- img
+- text: (3,67,186)
+- img
+- link "₹499 ₹1,199 58% off":
+  - /url: /nova-plus-amaze-ni-46-1200-w-dry-iron/p/itmbaa0fb70823f1?pid=IRNH3AAMCR6TBEYW&lid=LSTIRNH3AAMCR6TBEYWH8VQY2&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_26&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNH3AAMCR6TBEYW.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warranty, 5 Star 1200 mm 3 Blade Ceiling Fan":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm21f029430db99?pid=FANHFPS9ZYFZEGUU&lid=LSTFANHFPS9ZYFZEGUU6BFXVQ&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_27&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPS9ZYFZEGUU.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warranty, 5 Star 1200 mm 3 Blade Ceiling Fan"
+  - img
+- link "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warra...":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm21f029430db99?pid=FANHFPS9ZYFZEGUU&lid=LSTFANHFPS9ZYFZEGUU6BFXVQ&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_27&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPS9ZYFZEGUU.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: BLDC Motor with Remote | Gloss Brown | Pack of 1 4.4
+- img
+- text: (32,301)
+- img
+- link "₹2,699 ₹4,820 44% off":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm21f029430db99?pid=FANHFPS9ZYFZEGUU&lid=LSTFANHFPS9ZYFZEGUU6BFXVQ&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_27&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPS9ZYFZEGUU.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Karcher WD 3 V 15/4/20 Wet & Dry Vacuum Cleaner":
+  - /url: /karcher-wd-3-v-15-4-20-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLGKGZY9MCEGSJY&lid=LSTVCLGKGZY9MCEGSJY6SVRN7&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_28&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLGKGZY9MCEGSJY.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Karcher WD 3 V 15/4/20 Wet & Dry Vacuum Cleaner"
+  - img
+- link "Karcher WD 3 V 15/4/20 Wet & Dry Vacuum Cleaner":
+  - /url: /karcher-wd-3-v-15-4-20-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLGKGZY9MCEGSJY&lid=LSTVCLGKGZY9MCEGSJY6SVRN7&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_28&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLGKGZY9MCEGSJY.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Yellow, Black 4.3
+- img
+- text: (12,025)
+- img
+- link "₹4,599 ₹12,690 63% off":
+  - /url: /karcher-wd-3-v-15-4-20-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLGKGZY9MCEGSJY&lid=LSTVCLGKGZY9MCEGSJY6SVRN7&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_28&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLGKGZY9MCEGSJY.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "BAJAJ Crest Neo 400mm Fiji Blue Wall Fan 400 mm 3 Blade Wall Fan":
+  - /url: /bajaj-crest-neo-400mm-fiji-blue-wall-fan-400-mm-3-blade/p/itm5b7a2c94b044e?pid=FANGR7FGHTYZRWUJ&lid=LSTFANGR7FGHTYZRWUJVVYACG&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_29&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGR7FGHTYZRWUJ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "BAJAJ Crest Neo 400mm Fiji Blue Wall Fan 400 mm 3 Blade Wall Fan"
+  - img
+- link "BAJAJ Crest Neo 400mm Fiji Blue Wall Fan 400 mm 3 Blade...":
+  - /url: /bajaj-crest-neo-400mm-fiji-blue-wall-fan-400-mm-3-blade/p/itm5b7a2c94b044e?pid=FANGR7FGHTYZRWUJ&lid=LSTFANGR7FGHTYZRWUJVVYACG&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_29&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGR7FGHTYZRWUJ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Fiji Blue & White | Pack of 1 4.1
+- img
+- text: (6,836)
+- img
+- link "₹1,899 ₹4,290 55% off":
+  - /url: /bajaj-crest-neo-400mm-fiji-blue-wall-fan-400-mm-3-blade/p/itm5b7a2c94b044e?pid=FANGR7FGHTYZRWUJ&lid=LSTFANGR7FGHTYZRWUJVVYACG&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_29&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGR7FGHTYZRWUJ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "PHILIPS FC9352/01 (883935201280) Bagless Dry Vacuum Cleaner with Powerful Suction,Turbo Brush":
+  - /url: /philips-fc9352-01-883935201280-bagless-dry-vacuum-cleaner-powerful-suction-turbo-brush/p/itm0ea00c5be24c8?pid=VCLF5XRAGYZ5D8TF&lid=LSTVCLF5XRAGYZ5D8TFSBZCE1&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_30&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLF5XRAGYZ5D8TF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "PHILIPS FC9352/01 (883935201280) Bagless Dry Vacuum Cleaner with Powerful Suction,Turbo Brush"
+  - img
+- link "PHILIPS FC9352/01 (883935201280) Bagless Dry Vacuum Cle...":
+  - /url: /philips-fc9352-01-883935201280-bagless-dry-vacuum-cleaner-powerful-suction-turbo-brush/p/itm0ea00c5be24c8?pid=VCLF5XRAGYZ5D8TF&lid=LSTVCLF5XRAGYZ5D8TFSBZCE1&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_30&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLF5XRAGYZ5D8TF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Blue 4.4
+- img
+- text: (12,002)
+- img
+- link "₹8,799 ₹11,995 26% off":
+  - /url: /philips-fc9352-01-883935201280-bagless-dry-vacuum-cleaner-powerful-suction-turbo-brush/p/itm0ea00c5be24c8?pid=VCLF5XRAGYZ5D8TF&lid=LSTVCLF5XRAGYZ5D8TFSBZCE1&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_30&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLF5XRAGYZ5D8TF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Upto ₹170 Off on Exchange
+- link "Pureit Wave Pro 7 L RO + MF + UV in Tank + Minerals Water Purifier 7 Stage Filteration Upto 45% Water Recovery Wall Mountable Ideal for Borewell, Tanker & Municipal Water":
+  - /url: /pureit-wave-pro-7-l-ro-mf-uv-tank-minerals-water-purifier-stage-filteration-upto-45-recovery-wall-mountable-ideal-borewell-tanker-municipal/p/itmfaa26a6329d6c?pid=WAPHY87PKNZ3FNJ7&lid=LSTWAPHY87PKNZ3FNJ77L9EDC&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_31&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WAPHY87PKNZ3FNJ7.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Pureit Wave Pro 7 L RO + MF + UV in Tank + Minerals Water Purifier 7 Stage Filteration Upto 45% Water Recovery Wall Mountable Ideal for Borewell, Tanker & Municipal Water"
+  - img
+- link "Pureit Wave Pro 7 L RO + MF + UV in Tank + Minerals Wat...":
+  - /url: /pureit-wave-pro-7-l-ro-mf-uv-tank-minerals-water-purifier-stage-filteration-upto-45-recovery-wall-mountable-ideal-borewell-tanker-municipal/p/itmfaa26a6329d6c?pid=WAPHY87PKNZ3FNJ7&lid=LSTWAPHY87PKNZ3FNJ77L9EDC&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_31&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WAPHY87PKNZ3FNJ7.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Black 4.4
+- img
+- text: (7,386)
+- img
+- link "₹8,999 ₹14,999 40% off":
+  - /url: /pureit-wave-pro-7-l-ro-mf-uv-tank-minerals-water-purifier-stage-filteration-upto-45-recovery-wall-mountable-ideal-borewell-tanker-municipal/p/itmfaa26a6329d6c?pid=WAPHY87PKNZ3FNJ7&lid=LSTWAPHY87PKNZ3FNJ77L9EDC&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_31&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WAPHY87PKNZ3FNJ7.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warranty, 5 Star 1200 mm 3 Blade Ceiling Fan":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm73823cc9f7bd4?pid=FANHFPS8EEKGAGH6&lid=LSTFANHFPS8EEKGAGH6WJ189R&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_32&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPS8EEKGAGH6.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warranty, 5 Star 1200 mm 3 Blade Ceiling Fan"
+  - img
+- link "Atomberg | Efficio Alpha, 35W, Energy Saving, 1+1 Warra...":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm73823cc9f7bd4?pid=FANHFPS8EEKGAGH6&lid=LSTFANHFPS8EEKGAGH6WJ189R&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_32&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPS8EEKGAGH6.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: BLDC Motor with Remote | Gloss White | Pack of 1 4.4
+- img
+- text: (32,301)
+- img
+- link "₹2,699 ₹4,820 44% off":
+  - /url: /atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm73823cc9f7bd4?pid=FANHFPS8EEKGAGH6&lid=LSTFANHFPS8EEKGAGH6WJ189R&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_32&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANHFPS8EEKGAGH6.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Orient Electric Ujala Air 1 Star 1200 mm 3 Blade Ceiling Fan":
+  - /url: /orient-electric-ujala-air-1-star-1200-mm-3-blade-ceiling-fan/p/itm86c3958e8a4e0?pid=FANGJWN8HU3EB7ZX&lid=LSTFANGJWN8HU3EB7ZXHSYP4F&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_33&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGJWN8HU3EB7ZX.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Orient Electric Ujala Air 1 Star 1200 mm 3 Blade Ceiling Fan"
+  - img
+- link "Orient Electric Ujala Air 1 Star 1200 mm 3 Blade Ceilin...":
+  - /url: /orient-electric-ujala-air-1-star-1200-mm-3-blade-ceiling-fan/p/itm86c3958e8a4e0?pid=FANGJWN8HU3EB7ZX&lid=LSTFANGJWN8HU3EB7ZXHSYP4F&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_33&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGJWN8HU3EB7ZX.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Brown | Pack of 1 4.1
+- img
+- text: (41,692)
+- img
+- link "₹1,249 ₹2,600 51% off":
+  - /url: /orient-electric-ujala-air-1-star-1200-mm-3-blade-ceiling-fan/p/itm86c3958e8a4e0?pid=FANGJWN8HU3EB7ZX&lid=LSTFANGJWN8HU3EB7ZXHSYP4F&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_33&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGJWN8HU3EB7ZX.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Whirlpool 6.5 kg Fully Automatic Top Load Washing Machine with In-built Heater Grey":
+  - /url: /whirlpool-6-5-kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm9fe0dcaaaf7bf?pid=WMNGVNUZEKPK7WWS&lid=LSTWMNGVNUZEKPK7WWSBBUDYL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_34&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGVNUZEKPK7WWS.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Whirlpool 6.5 kg Fully Automatic Top Load Washing Machine with In-built Heater Grey"
+  - img
+- link "Whirlpool 6.5 kg Fully Automatic Top Load Washing Machi...":
+  - /url: /whirlpool-6-5-kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm9fe0dcaaaf7bf?pid=WMNGVNUZEKPK7WWS&lid=LSTWMNGVNUZEKPK7WWSBBUDYL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_34&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGVNUZEKPK7WWS.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: MAGIC CLEAN PRO SW 6.5 (H) GREY 10YMW 4.1
+- img
+- text: (35,722)
+- img
+- link "₹16,490 ₹21,150 22% off":
+  - /url: /whirlpool-6-5-kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm9fe0dcaaaf7bf?pid=WMNGVNUZEKPK7WWS&lid=LSTWMNGVNUZEKPK7WWSBBUDYL&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_34&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGVNUZEKPK7WWS.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Karcher WD 3 V 15/4/20_HL Wet & Dry Vacuum Cleaner":
+  - /url: /karcher-wd-3-v-15-4-20-hl-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLH46WVAMZURN4C&lid=LSTVCLH46WVAMZURN4CJPOABQ&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_35&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLH46WVAMZURN4C.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Karcher WD 3 V 15/4/20_HL Wet & Dry Vacuum Cleaner"
+  - img
+- link "Karcher WD 3 V 15/4/20_HL Wet & Dry Vacuum Cleaner":
+  - /url: /karcher-wd-3-v-15-4-20-hl-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLH46WVAMZURN4C&lid=LSTVCLH46WVAMZURN4CJPOABQ&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_35&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLH46WVAMZURN4C.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Yellow, Black 4.4
+- img
+- text: (67)
+- img
+- link "₹4,899 ₹12,690 61% off":
+  - /url: /karcher-wd-3-v-15-4-20-hl-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLH46WVAMZURN4C&lid=LSTVCLH46WVAMZURN4CJPOABQ&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_35&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLH46WVAMZURN4C.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Dreame RLS6LADC/L10S Ultra Robotic Floor Cleaner (WiFi Connectivity)":
+  - /url: /dreame-rls6ladc-l10s-ultra-robotic-floor-cleaner-wifi-connectivity/p/itm0232e6c6b9013?pid=VCLH3BC2YHFZKKFU&lid=LSTVCLH3BC2YHFZKKFU54FEDX&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_36&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLH3BC2YHFZKKFU.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Dreame RLS6LADC/L10S Ultra Robotic Floor Cleaner (WiFi Connectivity)"
+  - img
+- link "Dreame RLS6LADC/L10S Ultra Robotic Floor Cleaner (WiFi ...":
+  - /url: /dreame-rls6ladc-l10s-ultra-robotic-floor-cleaner-wifi-connectivity/p/itm0232e6c6b9013?pid=VCLH3BC2YHFZKKFU&lid=LSTVCLH3BC2YHFZKKFU54FEDX&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_36&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLH3BC2YHFZKKFU.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Black gold 4.2
+- img
+- text: (59)
+- img
+- link "₹47,999 ₹1,12,999 57% off":
+  - /url: /dreame-rls6ladc-l10s-ultra-robotic-floor-cleaner-wifi-connectivity/p/itm0232e6c6b9013?pid=VCLH3BC2YHFZKKFU&lid=LSTVCLH3BC2YHFZKKFU54FEDX&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_36&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLH3BC2YHFZKKFU.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Thomson 7.5 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Black":
+  - /url: /thomson-7-5-kg-5-star-aqua-magic-semi-automatic-top-load-washing-machine-black/p/itme8d187d783edc?pid=WMNGR5WSESZZXFA4&lid=LSTWMNGR5WSESZZXFA4XW866G&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_37&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGR5WSESZZXFA4.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Thomson 7.5 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Black"
+  - img
+- link "Thomson 7.5 kg 5 Star Aqua Magic Semi Automatic Top Loa...":
+  - /url: /thomson-7-5-kg-5-star-aqua-magic-semi-automatic-top-load-washing-machine-black/p/itme8d187d783edc?pid=WMNGR5WSESZZXFA4&lid=LSTWMNGR5WSESZZXFA4XW866G&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_37&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGR5WSESZZXFA4.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: TSA7500SP 4.1
+- img
+- text: (23,689)
+- img
+- link "₹7,899 ₹11,499 31% off":
+  - /url: /thomson-7-5-kg-5-star-aqua-magic-semi-automatic-top-load-washing-machine-black/p/itme8d187d783edc?pid=WMNGR5WSESZZXFA4&lid=LSTWMNGR5WSESZZXFA4XW866G&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_37&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.WMNGR5WSESZZXFA4.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "Orient Electric Ujala Prime BEE Star Rated 1200 mm 3 Blade Ceiling Fan":
+  - /url: /orient-electric-ujala-prime-bee-star-rated-1200-mm-3-blade-ceiling-fan/p/itm0baa5c80c6f60?pid=FANGJWNBDEWGSDHY&lid=LSTFANGJWNBDEWGSDHYNTO15O&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_38&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGJWNBDEWGSDHY.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "Orient Electric Ujala Prime BEE Star Rated 1200 mm 3 Blade Ceiling Fan"
+  - img
+- link "Orient Electric Ujala Prime BEE Star Rated 1200 mm 3 Bl...":
+  - /url: /orient-electric-ujala-prime-bee-star-rated-1200-mm-3-blade-ceiling-fan/p/itm0baa5c80c6f60?pid=FANGJWNBDEWGSDHY&lid=LSTFANGJWNBDEWGSDHYNTO15O&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_38&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGJWNBDEWGSDHY.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Brown | Pack of 1 4
+- img
+- text: (5,849)
+- img
+- link "₹1,899 ₹3,700 48% off":
+  - /url: /orient-electric-ujala-prime-bee-star-rated-1200-mm-3-blade-ceiling-fan/p/itm0baa5c80c6f60?pid=FANGJWNBDEWGSDHY&lid=LSTFANGJWNBDEWGSDHYNTO15O&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_38&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.FANGJWNBDEWGSDHY.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "HAVELLS fabio 1250 W Steam Iron":
+  - /url: /havells-fabio-1250-w-steam-iron/p/itmc5480fbf7ed86?pid=IRNFC6JJS9MFNCNF&lid=LSTIRNFC6JJS9MFNCNFOKIFSH&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_39&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNFC6JJS9MFNCNF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "HAVELLS fabio 1250 W Steam Iron"
+  - img
+- link "HAVELLS fabio 1250 W Steam Iron":
+  - /url: /havells-fabio-1250-w-steam-iron/p/itmc5480fbf7ed86?pid=IRNFC6JJS9MFNCNF&lid=LSTIRNFC6JJS9MFNCNFOKIFSH&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_39&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNFC6JJS9MFNCNF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Blue 4.1
+- img
+- text: (27,744)
+- img
+- link "₹999 ₹2,195 54% off":
+  - /url: /havells-fabio-1250-w-steam-iron/p/itmc5480fbf7ed86?pid=IRNFC6JJS9MFNCNF&lid=LSTIRNFC6JJS9MFNCNFOKIFSH&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_39&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.IRNFC6JJS9MFNCNF.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal
+- link "EUREKA FORBES Quick Clean DX Dry Vacuum Cleaner with Reusable Dust Bag":
+  - /url: /eureka-forbes-quick-clean-dx-dry-vacuum-cleaner-reusable-dust-bag/p/itm8c01cff3347cb?pid=VCLD4NTM3SPYBJSJ&lid=LSTVCLD4NTM3SPYBJSJJS0IBW&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_40&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLD4NTM3SPYBJSJ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+  - img "EUREKA FORBES Quick Clean DX Dry Vacuum Cleaner with Reusable Dust Bag"
+  - img
+- link "EUREKA FORBES Quick Clean DX Dry Vacuum Cleaner with Re...":
+  - /url: /eureka-forbes-quick-clean-dx-dry-vacuum-cleaner-reusable-dust-bag/p/itm8c01cff3347cb?pid=VCLD4NTM3SPYBJSJ&lid=LSTVCLD4NTM3SPYBJSJJS0IBW&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_40&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLD4NTM3SPYBJSJ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Red, Black 3.9
+- img
+- text: (48,824)
+- img
+- link "₹2,899 ₹4,499 35% off":
+  - /url: /eureka-forbes-quick-clean-dx-dry-vacuum-cleaner-reusable-dust-bag/p/itm8c01cff3347cb?pid=VCLD4NTM3SPYBJSJ&lid=LSTVCLD4NTM3SPYBJSJJS0IBW&marketplace=FLIPKART&q=home+appliances&store=j9e&srno=s_1_40&otracker=search&otracker1=search&fm=organic&iid=64295f93-7de3-492f-9df2-af1479b789ee.VCLD4NTM3SPYBJSJ.SEARCH&ppt=hp&ppn=homepage&ssid=xpczv37ly80000001751427010897&qH=7dc6bf24b40e17e8
+- text: Hot Deal Page 1 of 540
+- navigation:
+  - link "1":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=1
+  - link "2":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+  - link "3":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=3
+  - link "4":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=4
+  - link "5":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=5
+  - link "6":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=6
+  - link "7":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=7
+  - link "8":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=8
+  - link "9":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=9
+  - link "10":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=10
+  - link "Next":
+    - /url: /search?q=home+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+- text: Did you find what you were looking for? Yes No Reviews for Popular Home & Kitchen
+- img "Crompton DS 500 W Mixer Grinder"
+- link "1. Crompton DS 500 W Mixer Gri... 4.2 23,266 Ratings&1,268 Reviews ₹1,699 51% off":
+  - /url: /crompton-ds-500-w-mixer-grinder/p/itm5a5bd5bd974ce?pid=MIXGSF4YQSJYKR5J&marketplace=FLIPKART
+  - text: 1. Crompton DS 500 W Mixer Gri... 4.2
+  - img
+  - text: 23,266 Ratings&1,268 Reviews ₹1,699 51% off
+- list:
+  - listitem: "Power Consumption: 500 W"
+  - listitem: 3 Jars
+- text: Most Helpful Review 5
+- img
+- paragraph: Perfect product!
+- text: This product is value for money and delivered properly best Thank you Flipkart.........🙃 Greatful quality Best grinding Moderate motor design All point of... Read full review
+- paragraph: Shubham Jha
+- img
+- paragraph: Certified Buyer
+- paragraph: 8 months ago
+- text: Recent Review 5
+- img
+- paragraph: Just wow!
+- text: Really liked the product A must buy at this price ☺️
+- paragraph: Flipkart Customer
+- img
+- paragraph: Certified Buyer
+- paragraph: 2 days ago
+- img "Wipro Elato GD203 1200 W Dry Iron"
+- link "2. Wipro Elato GD203 1200 W Dr... 4.2 14,723 Ratings&1,134 Reviews ₹1,049 46% off":
+  - /url: /wipro-elato-gd203-1200-w-dry-iron/p/itm73706d23adb97?pid=IRNGHJ3ZYXDVXGGE&marketplace=FLIPKART
+  - text: 2. Wipro Elato GD203 1200 W Dr... 4.2
+  - img
+  - text: 14,723 Ratings&1,134 Reviews ₹1,049 46% off
+- list:
+  - listitem: "Spray: No"
+  - listitem: "Soleplate Type: Yes"
+- text: Most Helpful Review 5
+- img
+- paragraph: Just wow!
+- text: This product is very very very nice 😊 It's very heard and quickly hot🔥
+- paragraph: Flipkart Customer
+- img
+- paragraph: Certified Buyer
+- paragraph: Jun, 2023
+- text: Recent Review 5
+- img
+- paragraph: Brilliant
+- text: Nice product. Value for money.
+- paragraph: Jawed Ansari
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 days ago
+- img "Karcher WD 3 V 15/4/20 Wet & Dry Vacuum Cleaner"
+- link "3. Karcher WD 3 V 15/4/20 Wet ... 4.3 12,025 Ratings&1,387 Reviews ₹4,599 63% off":
+  - /url: /karcher-wd-3-v-15-4-20-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLGKGZY9MCEGSJY&marketplace=FLIPKART
+  - text: 3. Karcher WD 3 V 15/4/20 Wet ... 4.3
+  - img
+  - text: 12,025 Ratings&1,387 Reviews ₹4,599 63% off
+- list:
+  - listitem: Wet & Dry Cleaner
+- text: Most Helpful Review 5
+- img
+- paragraph: Simply awesome
+- text: I was confused between american micronic , eureka forbes , Philips and karcher.. After lot of research online and offline , I finally decided to buy Karcher... Read full review
+- paragraph: Flipkart Customer
+- img
+- paragraph: Certified Buyer
+- paragraph: Jan, 2021
+- text: Recent Review 4
+- img
+- paragraph: Good choice
+- text: First I received the defect product from Flipkart. Then they replaced the other one, and it working condition is good and I get the best vaccum cleaner from ... Read full review
+- paragraph: Maneiah Dara
+- img
+- paragraph: Certified Buyer
+- paragraph: 5 days ago
+- img "Godrej 5-In-1-Convertible Cooling 2025 Model 1 Ton 3 Star Split Inverter With Heavy Duty Cooling At Extreme Temperature AC - White"
+- link "4. Godrej 5-In-1-Convertible C... 4 6,250 Ratings&619 Reviews ₹28,490 32% off":
+  - /url: /godrej-5-in-1-convertible-cooling-2025-model-1-ton-3-star-split-inverter-heavy-duty-extreme-temperature-ac-white/p/itmd5626850d65b9?pid=ACNH7SAZXTBNFNHK&marketplace=FLIPKART
+  - text: 4. Godrej 5-In-1-Convertible C... 4
+  - img
+  - text: 6,250 Ratings&619 Reviews ₹28,490 32% off
+- list:
+  - listitem: "Annual Power Usage: 1034 Units"
+  - listitem: "Room Size: 90 sqft or Below"
+- text: Most Helpful Review 4
+- img
+- paragraph: Good quality product
+- text: Installation and demo not satisfied product good nice cooling... colour also full white need to more colours is best
+- paragraph: giri rajan
+- img
+- paragraph: Certified Buyer
+- paragraph: May, 2021
+- text: Recent Review 1
+- img
+- paragraph: Don't waste your money
+- text: Indoor leakage issue coming in most of godrej ac
+- paragraph: "&#39;Mukul Rajput&#39;"
+- img
+- paragraph: Certified Buyer
+- paragraph: 2 days ago
+- img "Karcher WD 3 V 15/4/20_HL Wet & Dry Vacuum Cleaner"
+- link "5. Karcher WD 3 V 15/4/20_HL W... 4.4 67 Ratings&10 Reviews ₹4,899 61% off":
+  - /url: /karcher-wd-3-v-15-4-20-hl-wet-dry-vacuum-cleaner/p/itmb366df11e5d3d?pid=VCLH46WVAMZURN4C&marketplace=FLIPKART
+  - text: 5. Karcher WD 3 V 15/4/20_HL W... 4.4
+  - img
+  - text: 67 Ratings&10 Reviews ₹4,899 61% off
+- list:
+  - listitem: Wet & Dry Cleaner
+- text: Most Helpful Review 5
+- img
+- paragraph: Highly recommended
+- text: Good quality product, but only one dust bag
+- paragraph: Rajan Saini
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 days ago
+- text: Recent Review 5
+- img
+- paragraph: Highly recommended
+- text: Good quality product, but only one dust bag
+- paragraph: Rajan Saini
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 days ago
+- contentinfo:
+  - text: ABOUT
+  - link "Contact Us":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - link "About Us":
+    - /url: https://corporate.flipkart.net/corporate-home
+  - link "Careers":
+    - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+  - link "Flipkart Stories":
+    - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+  - link "Press":
+    - /url: http://stories.flipkart.com/category/top-stories/news/
+  - link "Corporate Information":
+    - /url: /corporate-information
+  - text: GROUP COMPANIES
+  - link "Myntra":
+    - /url: https://www.myntra.com/
+  - link "Cleartrip":
+    - /url: https://www.cleartrip.com/
+  - link "Shopsy":
+    - /url: https://www.shopsy.in/
+  - text: HELP
+  - link "Payments":
+    - /url: /pages/payments
+  - link "Shipping":
+    - /url: /pages/shipping
+  - link "Cancellation & Returns":
+    - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+  - link "FAQ":
+    - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+  - text: CONSUMER POLICY
+  - link "Cancellation & Returns":
+    - /url: /pages/returnpolicy?otracker=footer_navlinks
+  - link "Terms Of Use":
+    - /url: /pages/terms?otracker=footer_navlinks
+  - link "Security":
+    - /url: /pages/paymentsecurity?otracker=footer_navlinks
+  - link "Privacy":
+    - /url: /pages/privacypolicy?otracker=footer_navlinks
+  - link "Sitemap":
+    - /url: /sitemap?otracker=footer_navlinks
+  - link "Grievance Redressal":
+    - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+  - link "EPR Compliance":
+    - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+  - text: "Mail Us:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - text: Social
+  - link:
+    - /url: https://www.facebook.com/flipkart
+    - img
+  - link:
+    - /url: https://www.twitter.com/flipkart
+    - img
+  - link:
+    - /url: https://www.youtube.com/flipkart
+    - img
+  - link:
+    - /url: https://www.instagram.com/flipkart
+    - img
+  - text: "Registered Office Address:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - paragraph: "CIN : U51109KA2012PTC066107"
+  - paragraph:
+    - text: "Telephone:"
+    - link "044-45614700":
+      - /url: tel:044-45614700
+    - text: /
+    - link "044-67415800":
+      - /url: tel:044-67415800
+  - img
+  - link "Become a Seller":
+    - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+  - img
+  - link "Advertise":
+    - /url: https://brands.flipkart.com
+  - img
+  - link "Gift Cards":
+    - /url: /the-gift-card-store?otracker=footer_navlinks
+  - img
+  - link "Help Center":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - text: © 2007-2025 Flipkart.com
+  - img
+```

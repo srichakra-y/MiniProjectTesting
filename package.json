@@ -1,0 +1,16 @@
+{
+  "name": "playwright_mini_project_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.8",
+    "allure-playwright": "^3.3.0"
+  }
+}

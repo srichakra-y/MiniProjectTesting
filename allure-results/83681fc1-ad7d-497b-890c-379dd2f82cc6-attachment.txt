@@ -1,0 +1,178 @@
+Error in gotoLoginPage(): ExpectError: Timed out 5000ms waiting for expect(page).toHaveTitle(expected)
+
+Locator: locator(':root')
+Expected string: "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!"
+Received string: "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"
+Call log:
+  - Expect "toHaveTitle" with timeout 5000ms
+  - waiting for locator(':root')
+    9 × locator resolved to <html lang="en-IN">…</html>
+      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"
+
+    at SearchingForProducts.gotoLoginPage (C:\Users\2414383\Documents\Playwright_mini_project_final\pages\SearchingForProducts.js:20:41)
+    at C:\Users\2414383\Documents\Playwright_mini_project_final\tests\flipkart.spec.js:17:9 {
+  matcherResult: {
+    name: 'toHaveTitle',
+    expected: 'Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!',
+    message: '\x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mpage\x1B[39m\x1B[2m).\x1B[22mtoHaveTitle\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m\n' +
+      '\n' +
+      "Locator: locator(':root')\n" +
+      'Expected string: \x1B[32m"Online Shopping \x1B[7mSite for\x1B[27m Mobile\x1B[7ms\x1B[27m, \x1B[7mElectronics, Furniture, Grocery\x1B[27m, Lifestyle\x1B[7m, Books\x1B[27m & \x1B[7mM\x1B[27more\x1B[7m. Best Offers!\x1B[27m"\x1B[39m\n' +
+      'Received string: \x1B[31m"Online Shopping \x1B[7mIndia\x1B[27m Mobile, \x1B[7mCameras\x1B[27m, Lifestyle & \x1B[7mm\x1B[27more\x1B[7m Online @ Flipkart.com\x1B[27m"\x1B[39m\n' +
+      'Call log:\n' +
+      '\x1B[2m  - Expect "toHaveTitle" with timeout 5000ms\x1B[22m\n' +
+      "\x1B[2m  - waiting for locator(':root')\x1B[22m\n" +
+      '\x1B[2m    9 × locator resolved to <html lang="en-IN">…</html>\x1B[22m\n' +
+      '\x1B[2m      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"\x1B[22m\n',
+    pass: false,
+    actual: 'Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com',
+    log: [
+      '  - Expect "toHaveTitle" with timeout 5000ms',
+      "  - waiting for locator(':root')",
+      '    9 × locator resolved to <html lang="en-IN">…</html>',
+      '      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"'
+    ],
+    timeout: 5000
+  },
+  [Symbol(step)]: {
+    stepId: 'expect@10',
+    category: 'expect',
+    apiName: 'expect.toHaveTitle',
+    title: 'toHaveTitle',
+    params: {
+      expected: 'Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!'
+    },
+    infectParentStepsWithError: undefined,
+    boxedStack: undefined,
+    location: {
+      file: 'C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js',
+      line: 20,
+      column: 41,
+      function: 'SearchingForProducts.gotoLoginPage'
+    },
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'expect@10'
+    },
+    complete: [Function: complete],
+    endWallTime: 1751862341926,
+    error: {
+      message: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mpage\x1B[39m\x1B[2m).\x1B[22mtoHaveTitle\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m\n' +
+        '\n' +
+        "Locator: locator(':root')\n" +
+        'Expected string: \x1B[32m"Online Shopping \x1B[7mSite for\x1B[27m Mobile\x1B[7ms\x1B[27m, \x1B[7mElectronics, Furniture, Grocery\x1B[27m, Lifestyle\x1B[7m, Books\x1B[27m & \x1B[7mM\x1B[27more\x1B[7m. Best Offers!\x1B[27m"\x1B[39m\n' +
+        'Received string: \x1B[31m"Online Shopping \x1B[7mIndia\x1B[27m Mobile, \x1B[7mCameras\x1B[27m, Lifestyle & \x1B[7mm\x1B[27more\x1B[7m Online @ Flipkart.com\x1B[27m"\x1B[39m\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toHaveTitle" with timeout 5000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for locator(':root')\x1B[22m\n" +
+        '\x1B[2m    9 × locator resolved to <html lang="en-IN">…</html>\x1B[22m\n' +
+        '\x1B[2m      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"\x1B[22m\n',
+      stack: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mpage\x1B[39m\x1B[2m).\x1B[22mtoHaveTitle\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m\n' +
+        '\n' +
+        "Locator: locator(':root')\n" +
+        'Expected string: \x1B[32m"Online Shopping \x1B[7mSite for\x1B[27m Mobile\x1B[7ms\x1B[27m, \x1B[7mElectronics, Furniture, Grocery\x1B[27m, Lifestyle\x1B[7m, Books\x1B[27m & \x1B[7mM\x1B[27more\x1B[7m. Best Offers!\x1B[27m"\x1B[39m\n' +
+        'Received string: \x1B[31m"Online Shopping \x1B[7mIndia\x1B[27m Mobile, \x1B[7mCameras\x1B[27m, Lifestyle & \x1B[7mm\x1B[27more\x1B[7m Online @ Flipkart.com\x1B[27m"\x1B[39m\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toHaveTitle" with timeout 5000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for locator(':root')\x1B[22m\n" +
+        '\x1B[2m    9 × locator resolved to <html lang="en-IN">…</html>\x1B[22m\n' +
+        '\x1B[2m      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"\x1B[22m\n' +
+        '\n' +
+        '    at SearchingForProducts.gotoLoginPage (C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js:20:41)\n' +
+        '    at C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\tests\\flipkart.spec.js:17:9',
+      cause: undefined
+    }
+  }
+}
+Error during test execution: ExpectError: Timed out 5000ms waiting for expect(page).toHaveTitle(expected)
+
+Locator: locator(':root')
+Expected string: "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!"
+Received string: "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"
+Call log:
+  - Expect "toHaveTitle" with timeout 5000ms
+  - waiting for locator(':root')
+    9 × locator resolved to <html lang="en-IN">…</html>
+      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"
+
+    at SearchingForProducts.gotoLoginPage (C:\Users\2414383\Documents\Playwright_mini_project_final\pages\SearchingForProducts.js:20:41)
+    at C:\Users\2414383\Documents\Playwright_mini_project_final\tests\flipkart.spec.js:17:9 {
+  matcherResult: {
+    name: 'toHaveTitle',
+    expected: 'Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!',
+    message: '\x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mpage\x1B[39m\x1B[2m).\x1B[22mtoHaveTitle\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m\n' +
+      '\n' +
+      "Locator: locator(':root')\n" +
+      'Expected string: \x1B[32m"Online Shopping \x1B[7mSite for\x1B[27m Mobile\x1B[7ms\x1B[27m, \x1B[7mElectronics, Furniture, Grocery\x1B[27m, Lifestyle\x1B[7m, Books\x1B[27m & \x1B[7mM\x1B[27more\x1B[7m. Best Offers!\x1B[27m"\x1B[39m\n' +
+      'Received string: \x1B[31m"Online Shopping \x1B[7mIndia\x1B[27m Mobile, \x1B[7mCameras\x1B[27m, Lifestyle & \x1B[7mm\x1B[27more\x1B[7m Online @ Flipkart.com\x1B[27m"\x1B[39m\n' +
+      'Call log:\n' +
+      '\x1B[2m  - Expect "toHaveTitle" with timeout 5000ms\x1B[22m\n' +
+      "\x1B[2m  - waiting for locator(':root')\x1B[22m\n" +
+      '\x1B[2m    9 × locator resolved to <html lang="en-IN">…</html>\x1B[22m\n' +
+      '\x1B[2m      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"\x1B[22m\n',
+    pass: false,
+    actual: 'Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com',
+    log: [
+      '  - Expect "toHaveTitle" with timeout 5000ms',
+      "  - waiting for locator(':root')",
+      '    9 × locator resolved to <html lang="en-IN">…</html>',
+      '      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"'
+    ],
+    timeout: 5000
+  },
+  [Symbol(step)]: {
+    stepId: 'expect@10',
+    category: 'expect',
+    apiName: 'expect.toHaveTitle',
+    title: 'toHaveTitle',
+    params: {
+      expected: 'Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!'
+    },
+    infectParentStepsWithError: undefined,
+    boxedStack: undefined,
+    location: {
+      file: 'C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js',
+      line: 20,
+      column: 41,
+      function: 'SearchingForProducts.gotoLoginPage'
+    },
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'expect@10'
+    },
+    complete: [Function: complete],
+    endWallTime: 1751862341926,
+    error: {
+      message: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mpage\x1B[39m\x1B[2m).\x1B[22mtoHaveTitle\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m\n' +
+        '\n' +
+        "Locator: locator(':root')\n" +
+        'Expected string: \x1B[32m"Online Shopping \x1B[7mSite for\x1B[27m Mobile\x1B[7ms\x1B[27m, \x1B[7mElectronics, Furniture, Grocery\x1B[27m, Lifestyle\x1B[7m, Books\x1B[27m & \x1B[7mM\x1B[27more\x1B[7m. Best Offers!\x1B[27m"\x1B[39m\n' +
+        'Received string: \x1B[31m"Online Shopping \x1B[7mIndia\x1B[27m Mobile, \x1B[7mCameras\x1B[27m, Lifestyle & \x1B[7mm\x1B[27more\x1B[7m Online @ Flipkart.com\x1B[27m"\x1B[39m\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toHaveTitle" with timeout 5000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for locator(':root')\x1B[22m\n" +
+        '\x1B[2m    9 × locator resolved to <html lang="en-IN">…</html>\x1B[22m\n' +
+        '\x1B[2m      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"\x1B[22m\n',
+      stack: 'Error: \x1B[31mTimed out 5000ms waiting for \x1B[39m\x1B[2mexpect(\x1B[22m\x1B[31mpage\x1B[39m\x1B[2m).\x1B[22mtoHaveTitle\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m\n' +
+        '\n' +
+        "Locator: locator(':root')\n" +
+        'Expected string: \x1B[32m"Online Shopping \x1B[7mSite for\x1B[27m Mobile\x1B[7ms\x1B[27m, \x1B[7mElectronics, Furniture, Grocery\x1B[27m, Lifestyle\x1B[7m, Books\x1B[27m & \x1B[7mM\x1B[27more\x1B[7m. Best Offers!\x1B[27m"\x1B[39m\n' +
+        'Received string: \x1B[31m"Online Shopping \x1B[7mIndia\x1B[27m Mobile, \x1B[7mCameras\x1B[27m, Lifestyle & \x1B[7mm\x1B[27more\x1B[7m Online @ Flipkart.com\x1B[27m"\x1B[39m\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toHaveTitle" with timeout 5000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for locator(':root')\x1B[22m\n" +
+        '\x1B[2m    9 × locator resolved to <html lang="en-IN">…</html>\x1B[22m\n' +
+        '\x1B[2m      - unexpected value "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com"\x1B[22m\n' +
+        '\n' +
+        '    at SearchingForProducts.gotoLoginPage (C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js:20:41)\n' +
+        '    at C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\tests\\flipkart.spec.js:17:9',
+      cause: undefined
+    }
+  }
+}

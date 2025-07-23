@@ -1,0 +1,86 @@
+Error in gotoLoginPage(): page.goto: net::ERR_CONNECTION_RESET at https://www.flipkart.com/
+Call log:
+  - navigating to "https://www.flipkart.com/", waiting until "load"
+
+    at SearchingForProducts.gotoLoginPage (C:\Users\2414383\Documents\Playwright_mini_project_final\pages\SearchingForProducts.js:17:33)
+    at C:\Users\2414383\Documents\Playwright_mini_project_final\tests\flipkart.spec.js:17:29 {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@5',
+    location: {
+      file: 'C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js',
+      line: 17,
+      column: 33,
+      function: 'SearchingForProducts.gotoLoginPage'
+    },
+    category: 'pw:api',
+    title: 'Navigate to "/"',
+    apiName: 'page.goto',
+    params: { url: 'https://www.flipkart.com/', waitUntil: 'load', timeout: 0 },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@5'
+    },
+    complete: [Function: complete],
+    endWallTime: 1751863125652,
+    error: {
+      message: 'Error: page.goto: net::ERR_CONNECTION_RESET at https://www.flipkart.com/\n' +
+        'Call log:\n' +
+        '\x1B[2m  - navigating to "https://www.flipkart.com/", waiting until "load"\x1B[22m\n',
+      stack: 'Error: page.goto: net::ERR_CONNECTION_RESET at https://www.flipkart.com/\n' +
+        'Call log:\n' +
+        '\x1B[2m  - navigating to "https://www.flipkart.com/", waiting until "load"\x1B[22m\n' +
+        '\n' +
+        '    at SearchingForProducts.gotoLoginPage (C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js:17:33)\n' +
+        '    at C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\tests\\flipkart.spec.js:17:29',
+      cause: undefined
+    }
+  }
+}
+Error during test execution: page.goto: net::ERR_CONNECTION_RESET at https://www.flipkart.com/
+Call log:
+  - navigating to "https://www.flipkart.com/", waiting until "load"
+
+    at SearchingForProducts.gotoLoginPage (C:\Users\2414383\Documents\Playwright_mini_project_final\pages\SearchingForProducts.js:17:33)
+    at C:\Users\2414383\Documents\Playwright_mini_project_final\tests\flipkart.spec.js:17:29 {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@5',
+    location: {
+      file: 'C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js',
+      line: 17,
+      column: 33,
+      function: 'SearchingForProducts.gotoLoginPage'
+    },
+    category: 'pw:api',
+    title: 'Navigate to "/"',
+    apiName: 'page.goto',
+    params: { url: 'https://www.flipkart.com/', waitUntil: 'load', timeout: 0 },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@5'
+    },
+    complete: [Function: complete],
+    endWallTime: 1751863125652,
+    error: {
+      message: 'Error: page.goto: net::ERR_CONNECTION_RESET at https://www.flipkart.com/\n' +
+        'Call log:\n' +
+        '\x1B[2m  - navigating to "https://www.flipkart.com/", waiting until "load"\x1B[22m\n',
+      stack: 'Error: page.goto: net::ERR_CONNECTION_RESET at https://www.flipkart.com/\n' +
+        'Call log:\n' +
+        '\x1B[2m  - navigating to "https://www.flipkart.com/", waiting until "load"\x1B[22m\n' +
+        '\n' +
+        '    at SearchingForProducts.gotoLoginPage (C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\pages\\SearchingForProducts.js:17:33)\n' +
+        '    at C:\\Users\\2414383\\Documents\\Playwright_mini_project_final\\tests\\flipkart.spec.js:17:29',
+      cause: undefined
+    }
+  }
+}

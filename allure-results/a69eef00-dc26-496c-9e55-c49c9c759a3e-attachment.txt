@@ -1,0 +1,2 @@
+Home Page validated
+Cart total after first item is added  ₹19,569

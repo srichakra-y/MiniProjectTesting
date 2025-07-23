@@ -1,0 +1,844 @@
+# Page snapshot
+
+```yaml
+- link "Flipkart":
+  - /url: /
+  - img "Flipkart"
+- link "Explore Plus":
+  - /url: /plus
+  - text: Explore Plus
+  - img
+- textbox "Search for products, brands and more": kitchen appliances
+- button:
+  - img
+- link "Login":
+  - /url: /account/login?ret=/search%3Fq%3Dkitchen%2520appliances%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Doff%26as%3Doff
+- link "Become a Seller":
+  - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+- text: More
+- img
+- link "Cart":
+  - /url: /viewcart?exploreMode=true&preference=FLIPKART
+  - img
+  - text: Cart
+- text: Electronics
+- img
+- text: TVs & Appliances
+- img
+- text: Men
+- img
+- text: Women
+- img
+- text: Baby & Kids
+- img
+- text: Home & Furniture
+- img
+- text: Sports, Books & More
+- img
+- link "Flights":
+  - /url: /travel/flights?otracker=nmenu_Flights
+- link "Offer Zone":
+  - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+- text: Filters CATEGORIES
+- img
+- link "Home & Kitchen":
+  - /url: /home-kitchen/pr?sid=j9e&q=kitchen+appliances&otracker=categorytree
+- img
+- link "Kitchen Appliances":
+  - /url: /home-kitchen/kitchen-appliances/pr?sid=j9e,m38&q=kitchen+appliances&otracker=categorytree
+- link "Electric Lunch Boxes":
+  - /url: /home-kitchen/kitchen-appliances/electric-lunch-boxes/pr?sid=j9e,m38,il6&q=kitchen+appliances&otracker=categorytree
+- link "Electric Choppers":
+  - /url: /home-kitchen/kitchen-appliances/electric-choppers/pr?sid=j9e,m38,2re&q=kitchen+appliances&otracker=categorytree
+- link "Mixer Juicer Grinder":
+  - /url: /home-kitchen/kitchen-appliances/mixer-juicer-grinder/pr?sid=j9e,m38,7ek&q=kitchen+appliances&otracker=categorytree
+- link "Electric Jug(heater)/Travel Kettles":
+  - /url: /home-kitchen/kitchen-appliances/electric-jugheatertravel-kettles/pr?sid=j9e,m38,xrv&q=kitchen+appliances&otracker=categorytree
+- link "Induction Cooktops":
+  - /url: /home-kitchen/kitchen-appliances/induction-cooktops/pr?sid=j9e,m38,575&q=kitchen+appliances&otracker=categorytree
+- text: Show 44 more Price . . . . . . .
+- combobox:
+  - option "Min" [selected]
+  - option "₹500"
+  - option "₹1000"
+  - option "₹5000"
+  - option "₹10000"
+  - option "₹25000"
+- text: to
+- combobox:
+  - option "₹500"
+  - option "₹1000"
+  - option "₹5000"
+  - option "₹10000"
+  - option "₹25000"
+  - option "₹25000+" [selected]
+- img
+- text: "? Brand"
+- img
+- img
+- textbox "Search Brand"
+- text: Prestige Butterfly Balzano Pigeon LG Preethi 4109 MORE Customer Ratings
+- img
+- text: 4★ & above 3★ & above Offers
+- img
+- text: Buy More, Save More Special Price Discount
+- img
+- text: Availability
+- img
+- link "Home":
+  - /url: /
+- img
+- link "Home & Kitchen":
+  - /url: /home-kitchen/pr?sid=j9e&marketplace=FLIPKART
+- img
+- link "Kitchen Appliances":
+  - /url: /home-kitchen/kitchen-appliances/pr?sid=j9e,m38&marketplace=FLIPKART
+- text: Showing 1 – 40 of 21,755 results for "kitchen appliances" Sort By Relevance Popularity Price -- Low to High Price -- High to Low Newest First
+- link "tHemiStO TH-WS15 Stainless Steel (10kg) Kitchen Weighing Scale":
+  - /url: /themisto-th-ws15-stainless-steel-10kg-kitchen-weighing-scale/p/itmea611b16c751f?pid=WSLHYHBQ8MFQS8NQ&lid=LSTWSLHYHBQ8MFQS8NQND8P4S&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_6Bkwqq7jq3w7I68XK1fX94ZvAD_SIEBeumYeteZQ9VEA%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "tHemiStO TH-WS15 Stainless Steel (10kg) Kitchen Weighing Scale"
+  - img
+- img
+- link "tHemiStO TH-WS15 Stainless Steel (10kg) Kitchen Weighin...":
+  - /url: /themisto-th-ws15-stainless-steel-10kg-kitchen-weighing-scale/p/itmea611b16c751f?pid=WSLHYHBQ8MFQS8NQ&lid=LSTWSLHYHBQ8MFQS8NQND8P4S&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_6Bkwqq7jq3w7I68XK1fX94ZvAD_SIEBeumYeteZQ9VEA%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Multicolor 4
+- img
+- text: (1,587)
+- link "₹538 ₹999 46% off":
+  - /url: /themisto-th-ws15-stainless-steel-10kg-kitchen-weighing-scale/p/itmea611b16c751f?pid=WSLHYHBQ8MFQS8NQ&lid=LSTWSLHYHBQ8MFQS8NQND8P4S&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_6Bkwqq7jq3w7I68XK1fX94ZvAD_SIEBeumYeteZQ9VEA%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- link "Butterfly Rapid Plus Wet Grinder with Coconut Scraper (Blue)":
+  - /url: /butterfly-rapid-plus-wet-grinder-coconut-scraper-blue/p/itm579412e45a359?pid=WTGFGMHH9A2Z32VH&lid=LSTWTGFGMHH9A2Z32VHZLFHMT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4_hZxHuQDlyR8WIqER6qPZm5V3i2L0tebpCi3nJLyvK4QEIsITtCzc4bHaOMTqL08%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Butterfly Rapid Plus Wet Grinder with Coconut Scraper (Blue)"
+  - img
+- img
+- link "Butterfly Rapid Plus Wet Grinder with Coconut Scraper (...":
+  - /url: /butterfly-rapid-plus-wet-grinder-coconut-scraper-blue/p/itm579412e45a359?pid=WTGFGMHH9A2Z32VH&lid=LSTWTGFGMHH9A2Z32VHZLFHMT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4_hZxHuQDlyR8WIqER6qPZm5V3i2L0tebpCi3nJLyvK4QEIsITtCzc4bHaOMTqL08%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Ink Blue 4.2
+- img
+- text: (44,504)
+- img
+- link "₹3,999 ₹5,156 22% off":
+  - /url: /butterfly-rapid-plus-wet-grinder-coconut-scraper-blue/p/itm579412e45a359?pid=WTGFGMHH9A2Z32VH&lid=LSTWTGFGMHH9A2Z32VHZLFHMT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4_hZxHuQDlyR8WIqER6qPZm5V3i2L0tebpCi3nJLyvK4QEIsITtCzc4bHaOMTqL08%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "SONALEX Weight Machine 10kg Scale Digital For Shop vajan kata sabzi jewellery scale Weighing Scale":
+  - /url: /sonalex-weight-machine-10kg-scale-digital-shop-vajan-kata-sabzi-jewellery-weighing/p/itm3fb6cd4c236e7?pid=WSLGFY9YKHSS3EXA&lid=LSTWSLGFY9YKHSS3EXA9XLXHT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5apX35TFRItMltn0OGPYBKMaw0JvUzK_2aPm5b5UG7Iw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "SONALEX Weight Machine 10kg Scale Digital For Shop vajan kata sabzi jewellery scale Weighing Scale"
+  - img
+- img
+- link "SONALEX Weight Machine 10kg Scale Digital For Shop vaja...":
+  - /url: /sonalex-weight-machine-10kg-scale-digital-shop-vajan-kata-sabzi-jewellery-weighing/p/itm3fb6cd4c236e7?pid=WSLGFY9YKHSS3EXA&lid=LSTWSLGFY9YKHSS3EXA9XLXHT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5apX35TFRItMltn0OGPYBKMaw0JvUzK_2aPm5b5UG7Iw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: White 4
+- img
+- text: (15,749)
+- link "₹292 ₹634 53% off":
+  - /url: /sonalex-weight-machine-10kg-scale-digital-shop-vajan-kata-sabzi-jewellery-weighing/p/itm3fb6cd4c236e7?pid=WSLGFY9YKHSS3EXA&lid=LSTWSLGFY9YKHSS3EXA9XLXHT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5apX35TFRItMltn0OGPYBKMaw0JvUzK_2aPm5b5UG7Iw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- link "Pigeon Zoom Electric Vegetable & Fruit Chopper":
+  - /url: /pigeon-zoom-electric-vegetable-fruit-chopper/p/itm572be4c6cfdf9?pid=CPRGEMHEXXJE3PJE&lid=LSTCPRGEMHEXXJE3PJENCBPSU&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGEMHEXXJE3PJE.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Pigeon Zoom Electric Vegetable & Fruit Chopper"
+  - img
+- link "Pigeon Zoom Electric Vegetable & Fruit Chopper":
+  - /url: /pigeon-zoom-electric-vegetable-fruit-chopper/p/itm572be4c6cfdf9?pid=CPRGEMHEXXJE3PJE&lid=LSTCPRGEMHEXXJE3PJENCBPSU&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGEMHEXXJE3PJE.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1 Unit, Data Cable, User Manual 3.8
+- img
+- text: (893)
+- link "₹499 ₹1,295 61% off":
+  - /url: /pigeon-zoom-electric-vegetable-fruit-chopper/p/itm572be4c6cfdf9?pid=CPRGEMHEXXJE3PJE&lid=LSTCPRGEMHEXXJE3PJENCBPSU&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGEMHEXXJE3PJE.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "Pigeon Favourite Electric Kettle":
+  - /url: /pigeon-favourite-electric-kettle/p/itmeasgcgprvgjzf?pid=EKTEASGCGV6GYP6S&lid=LSTEKTEASGCGV6GYP6SD0JMBH&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&spotlightTagId=default_BestsellerId_j9e%2Fm38&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EKTEASGCGV6GYP6S.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Pigeon Favourite Electric Kettle"
+  - img
+- link "Pigeon Favourite Electric Kettle":
+  - /url: /pigeon-favourite-electric-kettle/p/itmeasgcgprvgjzf?pid=EKTEASGCGV6GYP6S&lid=LSTEKTEASGCGV6GYP6SD0JMBH&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&spotlightTagId=default_BestsellerId_j9e%2Fm38&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EKTEASGCGV6GYP6S.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1.5 L, Silver, Black 4.1
+- img
+- text: (7,10,750)
+- img
+- link "₹499 ₹1,245 59% off":
+  - /url: /pigeon-favourite-electric-kettle/p/itmeasgcgprvgjzf?pid=EKTEASGCGV6GYP6S&lid=LSTEKTEASGCGV6GYP6SD0JMBH&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&spotlightTagId=default_BestsellerId_j9e%2Fm38&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EKTEASGCGV6GYP6S.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "Pigeon Favourite Electric Kettle":
+  - /url: /pigeon-favourite-electric-kettle/p/itmadf2fd1f90ed4?pid=EKTFP5XD7NKDMXHB&lid=LSTEKTFP5XD7NKDMXHB7DB3EM&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&spotlightTagId=default_BestsellerId_j9e%2Fm38&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EKTFP5XD7NKDMXHB.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Pigeon Favourite Electric Kettle"
+  - img
+- link "Pigeon Favourite Electric Kettle":
+  - /url: /pigeon-favourite-electric-kettle/p/itmadf2fd1f90ed4?pid=EKTFP5XD7NKDMXHB&lid=LSTEKTFP5XD7NKDMXHB7DB3EM&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&spotlightTagId=default_BestsellerId_j9e%2Fm38&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EKTFP5XD7NKDMXHB.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1.2 L, Silver, Black 4
+- img
+- text: (75,447)
+- img
+- link "₹799 ₹1,595 49% off":
+  - /url: /pigeon-favourite-electric-kettle/p/itmadf2fd1f90ed4?pid=EKTFP5XD7NKDMXHB&lid=LSTEKTFP5XD7NKDMXHB7DB3EM&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&spotlightTagId=default_BestsellerId_j9e%2Fm38&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EKTFP5XD7NKDMXHB.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "Pigeon Pop-Up Toaster":
+  - /url: /pigeon-pop-up-toaster/p/itm6696a2e45c554?pid=PUTEAZG4JXX7DWVF&lid=LSTPUTEAZG4JXX7DWVFHAZUZR&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.PUTEAZG4JXX7DWVF.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Pigeon Pop-Up Toaster"
+  - img
+- link "Pigeon Pop-Up Toaster":
+  - /url: /pigeon-pop-up-toaster/p/itm6696a2e45c554?pid=PUTEAZG4JXX7DWVF&lid=LSTPUTEAZG4JXX7DWVFHAZUZR&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.PUTEAZG4JXX7DWVF.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: White 4.2
+- img
+- text: (27,718)
+- link "₹799 ₹1,504 46% off":
+  - /url: /pigeon-pop-up-toaster/p/itm6696a2e45c554?pid=PUTEAZG4JXX7DWVF&lid=LSTPUTEAZG4JXX7DWVFHAZUZR&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.PUTEAZG4JXX7DWVF.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "KENT Digital Air Fryer8L|Grill,Roast|Upto80%Less Oil Usage|Touch Control Panel Air Fryer":
+  - /url: /kent-digital-air-fryer8l-grill-roast-upto80-less-oil-usage-touch-control-panel-fryer/p/itmacb65d8535cfa?pid=AFRH3WZTZUFPGJYJ&lid=LSTAFRH3WZTZUFPGJYJQ8J96Z&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_7nr5WznIsYUM8CwBcX-KKJiPQWVWByvDhgMMhYrjMcedmEaX_1OVaDgohoY5ZV-y8%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "KENT Digital Air Fryer8L|Grill,Roast|Upto80%Less Oil Usage|Touch Control Panel Air Fryer"
+  - img
+- img
+- link "KENT Digital Air Fryer8L|Grill,Roast|Upto80%Less Oil Us...":
+  - /url: /kent-digital-air-fryer8l-grill-roast-upto80-less-oil-usage-touch-control-panel-fryer/p/itmacb65d8535cfa?pid=AFRH3WZTZUFPGJYJ&lid=LSTAFRH3WZTZUFPGJYJQ8J96Z&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_7nr5WznIsYUM8CwBcX-KKJiPQWVWByvDhgMMhYrjMcedmEaX_1OVaDgohoY5ZV-y8%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 8 L 4.2
+- img
+- text: (1,800)
+- img
+- link "₹5,200 ₹8,000 35% off":
+  - /url: /kent-digital-air-fryer8l-grill-roast-upto80-less-oil-usage-touch-control-panel-fryer/p/itmacb65d8535cfa?pid=AFRH3WZTZUFPGJYJ&lid=LSTAFRH3WZTZUFPGJYJQ8J96Z&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_7nr5WznIsYUM8CwBcX-KKJiPQWVWByvDhgMMhYrjMcedmEaX_1OVaDgohoY5ZV-y8%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "Pigeon Electric Vegetable Chopper":
+  - /url: /pigeon-electric-vegetable-chopper/p/itm6e0fb6bdcf09f?pid=CPRGQWZY6R84H3TK&lid=LSTCPRGQWZY6R84H3TK7RBWWG&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGQWZY6R84H3TK.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Pigeon Electric Vegetable Chopper"
+  - img
+- link "Pigeon Electric Vegetable Chopper":
+  - /url: /pigeon-electric-vegetable-chopper/p/itm6e0fb6bdcf09f?pid=CPRGQWZY6R84H3TK&lid=LSTCPRGQWZY6R84H3TK7RBWWG&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGQWZY6R84H3TK.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1 chopper 4.3
+- img
+- text: (375)
+- img
+- link "₹1,499 ₹2,595 42% off":
+  - /url: /pigeon-electric-vegetable-chopper/p/itm6e0fb6bdcf09f?pid=CPRGQWZY6R84H3TK&lid=LSTCPRGQWZY6R84H3TK7RBWWG&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGQWZY6R84H3TK.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- link "SKYTONE by skytone Stainless Steel Electric 3 Liter Meat Grinders with Bowl 700W Food Chopper Electric Vegetable & Fruit Chopper":
+  - /url: /skytone-stainless-steel-electric-3-liter-meat-grinders-bowl-700w-food-chopper-vegetable-fruit/p/itm09dfa4b6723d2?pid=CPRGHJ2WHCEGWNNB&lid=LSTCPRGHJ2WHCEGWNNBKIGUTZ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGHJ2WHCEGWNNB.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "SKYTONE by skytone Stainless Steel Electric 3 Liter Meat Grinders with Bowl 700W Food Chopper Electric Vegetable & Fruit Chopper"
+  - img
+- link "SKYTONE by skytone Stainless Steel Electric 3 Liter Mea...":
+  - /url: /skytone-stainless-steel-electric-3-liter-meat-grinders-bowl-700w-food-chopper-vegetable-fruit/p/itm09dfa4b6723d2?pid=CPRGHJ2WHCEGWNNB&lid=LSTCPRGHJ2WHCEGWNNBKIGUTZ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGHJ2WHCEGWNNB.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1 Chopper 4
+- img
+- text: (4,259)
+- img
+- link "₹1,594 ₹2,999 46% off":
+  - /url: /skytone-stainless-steel-electric-3-liter-meat-grinders-bowl-700w-food-chopper-vegetable-fruit/p/itm09dfa4b6723d2?pid=CPRGHJ2WHCEGWNNB&lid=LSTCPRGHJ2WHCEGWNNBKIGUTZ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGHJ2WHCEGWNNB.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left
+- link "BlendLife Portable Blender 210Watt & 4000MAH for Shakes, ice etc USB-C Port, 400ml 200 W Juicer Mixer Grinder":
+  - /url: /blendlife-portable-blender-210watt-4000mah-shakes-ice-etc-usb-c-port-400ml-200-w-juicer-mixer-grinder/p/itma277da8d21eff?pid=MIXGM5SYFV45R2YD&lid=LSTMIXGM5SYFV45R2YDWOHEZU&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5Cokwg2DRvcSbIAO8-Y0nDo3A3Krfy4UEqMm7pYN_lWw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "BlendLife Portable Blender 210Watt & 4000MAH for Shakes, ice etc USB-C Port, 400ml 200 W Juicer Mixer Grinder"
+  - img
+- img
+- link "BlendLife Portable Blender 210Watt & 4000MAH for Shakes...":
+  - /url: /blendlife-portable-blender-210watt-4000mah-shakes-ice-etc-usb-c-port-400ml-200-w-juicer-mixer-grinder/p/itma277da8d21eff?pid=MIXGM5SYFV45R2YD&lid=LSTMIXGM5SYFV45R2YDWOHEZU&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5Cokwg2DRvcSbIAO8-Y0nDo3A3Krfy4UEqMm7pYN_lWw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: PRO | 1 Jar | Black 3.9
+- img
+- text: (2,062)
+- img
+- link "₹2,199 ₹3,999 45% off":
+  - /url: /blendlife-portable-blender-210watt-4000mah-shakes-ice-etc-usb-c-port-400ml-200-w-juicer-mixer-grinder/p/itma277da8d21eff?pid=MIXGM5SYFV45R2YD&lid=LSTMIXGM5SYFV45R2YDWOHEZU&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5Cokwg2DRvcSbIAO8-Y0nDo3A3Krfy4UEqMm7pYN_lWw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "MinMAX 2L 100% Copper Element Stainless Steel Electric Kettle":
+  - /url: /minmax-2l-100-copper-element-stainless-steel-electric-kettle/p/itm4e354a600a64d?pid=EKTGU5NHZWPNMZCZ&lid=LSTEKTGU5NHZWPNMZCZBXUZDN&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5gwMeg4IoYxSBignzCUTS9Ur9cVYT-1j02wZB4q5ZwQQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "MinMAX 2L 100% Copper Element Stainless Steel Electric Kettle"
+  - img
+- img
+- link "MinMAX 2L 100% Copper Element Stainless Steel Electric ...":
+  - /url: /minmax-2l-100-copper-element-stainless-steel-electric-kettle/p/itm4e354a600a64d?pid=EKTGU5NHZWPNMZCZ&lid=LSTEKTGU5NHZWPNMZCZBXUZDN&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5gwMeg4IoYxSBignzCUTS9Ur9cVYT-1j02wZB4q5ZwQQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 2 L, Red 3.9
+- img
+- text: (2,344)
+- link "₹587 ₹2,999 80% off":
+  - /url: /minmax-2l-100-copper-element-stainless-steel-electric-kettle/p/itm4e354a600a64d?pid=EKTGU5NHZWPNMZCZ&lid=LSTEKTGU5NHZWPNMZCZBXUZDN&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5gwMeg4IoYxSBignzCUTS9Ur9cVYT-1j02wZB4q5ZwQQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "KENT 300 W White Hand Blender":
+  - /url: /kent-300-w-white-hand-blender/p/itm4812b02e7d1fd?pid=HBLFPWRU3JHZJUR7&lid=LSTHBLFPWRU3JHZJUR7NLRRHO&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.HBLFPWRU3JHZJUR7.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "KENT 300 W White Hand Blender"
+  - img
+- link "KENT 300 W White Hand Blender":
+  - /url: /kent-300-w-white-hand-blender/p/itm4812b02e7d1fd?pid=HBLFPWRU3JHZJUR7&lid=LSTHBLFPWRU3JHZJUR7NLRRHO&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.HBLFPWRU3JHZJUR7.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 116051/16051 4.3
+- img
+- text: (17,644)
+- img
+- link "₹1,499 ₹2,400 37% off":
+  - /url: /kent-300-w-white-hand-blender/p/itm4812b02e7d1fd?pid=HBLFPWRU3JHZJUR7&lid=LSTHBLFPWRU3JHZJUR7NLRRHO&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.HBLFPWRU3JHZJUR7.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "Steelbird Huracan - 300 Watts Electric Chopper with Copper Motor, Chop, 800 ml Capacity Electric Vegetable & Fruit Chopper":
+  - /url: /steelbird-huracan-300-watts-electric-chopper-copper-motor-chop-800-ml-capacity-vegetable-fruit/p/itm8e2744d83d83a?pid=CPRGQ4FEZG3FCJZH&lid=LSTCPRGQ4FEZG3FCJZHYOMUTF&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_6ALwwGFfiM_5ola_doItyl9but5FOZSUybobhVaCedag%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Steelbird Huracan - 300 Watts Electric Chopper with Copper Motor, Chop, 800 ml Capacity Electric Vegetable & Fruit Chopper"
+  - img
+- img
+- link "Steelbird Huracan - 300 Watts Electric Chopper with Cop...":
+  - /url: /steelbird-huracan-300-watts-electric-chopper-copper-motor-chop-800-ml-capacity-vegetable-fruit/p/itm8e2744d83d83a?pid=CPRGQ4FEZG3FCJZH&lid=LSTCPRGQ4FEZG3FCJZHYOMUTF&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_6ALwwGFfiM_5ola_doItyl9but5FOZSUybobhVaCedag%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Chopper 4.2
+- img
+- text: (443)
+- img
+- link "₹899 ₹2,599 65% off":
+  - /url: /steelbird-huracan-300-watts-electric-chopper-copper-motor-chop-800-ml-capacity-vegetable-fruit/p/itm8e2744d83d83a?pid=CPRGQ4FEZG3FCJZH&lid=LSTCPRGQ4FEZG3FCJZHYOMUTF&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_6ALwwGFfiM_5ola_doItyl9but5FOZSUybobhVaCedag%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Lowest price in the year
+- link "KENT 400 W Silver Hand Blender":
+  - /url: /kent-400-w-silver-hand-blender/p/itm7ba16e71074e7?pid=HBLFG7YEXPGFHERS&lid=LSTHBLFG7YEXPGFHERSD62IY6&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.HBLFG7YEXPGFHERS.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "KENT 400 W Silver Hand Blender"
+  - img
+- link "KENT 400 W Silver Hand Blender":
+  - /url: /kent-400-w-silver-hand-blender/p/itm7ba16e71074e7?pid=HBLFG7YEXPGFHERS&lid=LSTHBLFG7YEXPGFHERSD62IY6&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.HBLFG7YEXPGFHERS.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 116044 4.2
+- img
+- text: (15,175)
+- img
+- link "₹1,299 ₹2,100 38% off":
+  - /url: /kent-400-w-silver-hand-blender/p/itm7ba16e71074e7?pid=HBLFG7YEXPGFHERS&lid=LSTHBLFG7YEXPGFHERSD62IY6&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.HBLFG7YEXPGFHERS.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "HSR 1L Automatic Yogurt Maker":
+  - /url: /hsr-1l-automatic-yogurt-maker/p/itmfgdtzurhyrfzd?pid=FDMF2BYSQZGHEFCW&lid=LSTFDMF2BYSQZGHEFCWXAGSWC&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMF2BYSQZGHEFCW.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "HSR 1L Automatic Yogurt Maker"
+  - img
+- link "HSR 1L Automatic Yogurt Maker":
+  - /url: /hsr-1l-automatic-yogurt-maker/p/itmfgdtzurhyrfzd?pid=FDMF2BYSQZGHEFCW&lid=LSTFDMF2BYSQZGHEFCWXAGSWC&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMF2BYSQZGHEFCW.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Multicolor 4
+- img
+- text: (1,587)
+- img
+- link "₹455 ₹1,199 62% off":
+  - /url: /hsr-1l-automatic-yogurt-maker/p/itmfgdtzurhyrfzd?pid=FDMF2BYSQZGHEFCW&lid=LSTFDMF2BYSQZGHEFCWXAGSWC&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMF2BYSQZGHEFCW.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "ZunVolt 1.5L Electric Kettle":
+  - /url: /zunvolt-1-5l-electric-kettle/p/itme44fb74b59879?pid=EKTGNRGWKCPZWRHX&lid=LSTEKTGNRGWKCPZWRHX5X7J0U&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4Rvm0LL431Hv8FpY3p47TIxNfNufIOCdcFqbfgf4VJIg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "ZunVolt 1.5L Electric Kettle"
+  - img
+- img
+- link "ZunVolt 1.5L Electric Kettle":
+  - /url: /zunvolt-1-5l-electric-kettle/p/itme44fb74b59879?pid=EKTGNRGWKCPZWRHX&lid=LSTEKTGNRGWKCPZWRHX5X7J0U&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4Rvm0LL431Hv8FpY3p47TIxNfNufIOCdcFqbfgf4VJIg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1.5 L, Silver, Black 4
+- img
+- text: (28,847)
+- img
+- link "₹649 ₹899 27% off":
+  - /url: /zunvolt-1-5l-electric-kettle/p/itme44fb74b59879?pid=EKTGNRGWKCPZWRHX&lid=LSTEKTGNRGWKCPZWRHX5X7J0U&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4Rvm0LL431Hv8FpY3p47TIxNfNufIOCdcFqbfgf4VJIg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "Venus Electronic Digital Kitchen Weight Machine Food Baking, Health 10 kg Weighing Scale":
+  - /url: /venus-electronic-digital-kitchen-weight-machine-food-baking-health-10-kg-weighing-scale/p/itm28345cdf3a58f?pid=WSLGG56NAZZGNEY7&lid=LSTWSLGG56NAZZGNEY7JRZIAY&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_70UTKdrjph_VAnNmRtK499d-Qnp8JG7wAmvWue3Kh2tQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Venus Electronic Digital Kitchen Weight Machine Food Baking, Health 10 kg Weighing Scale"
+  - img
+- img
+- link "Venus Electronic Digital Kitchen Weight Machine Food Ba...":
+  - /url: /venus-electronic-digital-kitchen-weight-machine-food-baking-health-10-kg-weighing-scale/p/itm28345cdf3a58f?pid=WSLGG56NAZZGNEY7&lid=LSTWSLGG56NAZZGNEY7JRZIAY&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_70UTKdrjph_VAnNmRtK499d-Qnp8JG7wAmvWue3Kh2tQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: White 3.9
+- img
+- text: (2,381)
+- link "₹349 ₹1,599 78% off":
+  - /url: /venus-electronic-digital-kitchen-weight-machine-food-baking-health-10-kg-weighing-scale/p/itm28345cdf3a58f?pid=WSLGG56NAZZGNEY7&lid=LSTWSLGG56NAZZGNEY7JRZIAY&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_70UTKdrjph_VAnNmRtK499d-Qnp8JG7wAmvWue3Kh2tQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- link "HSR Automatic Yogurt maker Machine Household DIY Yogurt tools Kitchen appliance With Stainless steel Bowl Electric Food Dehydrator":
+  - /url: /hsr-automatic-yogurt-maker-machine-household-diy-tools-kitchen-appliance-stainless-steel-bowl-electric-food-dehydrator/p/itm09d363a9ce551?pid=EFDFXRZJGUZGBVGG&lid=LSTEFDFXRZJGUZGBVGGQ5KKGZ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EFDFXRZJGUZGBVGG.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "HSR Automatic Yogurt maker Machine Household DIY Yogurt tools Kitchen appliance With Stainless steel Bowl Electric Food Dehydrator"
+  - img
+- link "HSR Automatic Yogurt maker Machine Household DIY Yogurt...":
+  - /url: /hsr-automatic-yogurt-maker-machine-household-diy-tools-kitchen-appliance-stainless-steel-bowl-electric-food-dehydrator/p/itm09d363a9ce551?pid=EFDFXRZJGUZGBVGG&lid=LSTEFDFXRZJGUZGBVGGQ5KKGZ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EFDFXRZJGUZGBVGG.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: "4.1"
+- img
+- text: (245)
+- img
+- link "₹491 ₹1,299 62% off":
+  - /url: /hsr-automatic-yogurt-maker-machine-household-diy-tools-kitchen-appliance-stainless-steel-bowl-electric-food-dehydrator/p/itm09d363a9ce551?pid=EFDFXRZJGUZGBVGG&lid=LSTEFDFXRZJGUZGBVGGQ5KKGZ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.EFDFXRZJGUZGBVGG.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left
+- link "AADGEX by No Manual Ice Crusher Easy-to-Use Electric Grater & Slicer":
+  - /url: /aadgex-no-manual-ice-crusher-easy-to-use-electric-grater-slicer/p/itm8d3bb047e49d5?pid=CPRGZV5EKGDNR9SP&lid=LSTCPRGZV5EKGDNR9SPDFIYVQ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGZV5EKGDNR9SP.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "AADGEX by No Manual Ice Crusher Easy-to-Use Electric Grater & Slicer"
+  - img
+- link "AADGEX by No Manual Ice Crusher Easy-to-Use Electric Gr...":
+  - /url: /aadgex-no-manual-ice-crusher-easy-to-use-electric-grater-slicer/p/itm8d3bb047e49d5?pid=CPRGZV5EKGDNR9SP&lid=LSTCPRGZV5EKGDNR9SPDFIYVQ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGZV5EKGDNR9SP.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: pack of 1
+- link "₹717 ₹1,999 64% off":
+  - /url: /aadgex-no-manual-ice-crusher-easy-to-use-electric-grater-slicer/p/itm8d3bb047e49d5?pid=CPRGZV5EKGDNR9SP&lid=LSTCPRGZV5EKGDNR9SPDFIYVQ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGZV5EKGDNR9SP.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "Home-pro Black Handle Waffle Maker Mould for Gas Burner Stove Non Stick Waffle Maker":
+  - /url: /home-pro-black-handle-waffle-maker-mould-gas-burner-stove-non-stick/p/itm47575fc3d7007?pid=WFMGK4GWJGHDHVEG&lid=LSTWFMGK4GWJGHDHVEGMXD59X&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5-n1wMJotF2cTV_jEe0DNTKOM2TEFIvFmqDP1WZjrd5w%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Home-pro Black Handle Waffle Maker Mould for Gas Burner Stove Non Stick Waffle Maker"
+  - img
+- img
+- link "Home-pro Black Handle Waffle Maker Mould for Gas Burner...":
+  - /url: /home-pro-black-handle-waffle-maker-mould-gas-burner-stove-non-stick/p/itm47575fc3d7007?pid=WFMGK4GWJGHDHVEG&lid=LSTWFMGK4GWJGHDHVEGMXD59X&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5-n1wMJotF2cTV_jEe0DNTKOM2TEFIvFmqDP1WZjrd5w%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: "4.2"
+- img
+- text: (155)
+- img
+- link "₹473 ₹999 52% off":
+  - /url: /home-pro-black-handle-waffle-maker-mould-gas-burner-stove-non-stick/p/itm47575fc3d7007?pid=WFMGK4GWJGHDHVEG&lid=LSTWFMGK4GWJGHDHVEGMXD59X&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5-n1wMJotF2cTV_jEe0DNTKOM2TEFIvFmqDP1WZjrd5w%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "Flipkart SmartBuy Grill Sandwich Maker":
+  - /url: /flipkart-smartbuy-grill-sandwich-maker/p/itmf29f5ghwwxh2x?pid=SWMF2FHN7YESMPJK&lid=LSTSWMF2FHN7YESMPJKVFNDFW&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_536PvIVOXTVtVz3uOnp5K6P55PTaRZsWAJh1eidWYv25wbh2M_hU4cdmqx8G2v09E%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Flipkart SmartBuy Grill Sandwich Maker"
+  - img
+- img
+- link "Flipkart SmartBuy Grill Sandwich Maker":
+  - /url: /flipkart-smartbuy-grill-sandwich-maker/p/itmf29f5ghwwxh2x?pid=SWMF2FHN7YESMPJK&lid=LSTSWMF2FHN7YESMPJKVFNDFW&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_536PvIVOXTVtVz3uOnp5K6P55PTaRZsWAJh1eidWYv25wbh2M_hU4cdmqx8G2v09E%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: "4.1"
+- img
+- text: (34,934)
+- img
+- link "₹749 ₹1,425 47% off":
+  - /url: /flipkart-smartbuy-grill-sandwich-maker/p/itmf29f5ghwwxh2x?pid=SWMF2FHN7YESMPJK&lid=LSTSWMF2FHN7YESMPJKVFNDFW&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_536PvIVOXTVtVz3uOnp5K6P55PTaRZsWAJh1eidWYv25wbh2M_hU4cdmqx8G2v09E%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "GUGGU DEV69_BA127-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper":
+  - /url: /guggu-dev69-ba127-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itma9cb76f54c06f?pid=CPRGV5A4KSYQHCHU&lid=LSTCPRGV5A4KSYQHCHU26JUET&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5A4KSYQHCHU.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "GUGGU DEV69_BA127-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper"
+  - img
+- link "GUGGU DEV69_BA127-Electric Wireless Garlic Chopper For ...":
+  - /url: /guggu-dev69-ba127-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itma9cb76f54c06f?pid=CPRGV5A4KSYQHCHU&lid=LSTCPRGV5A4KSYQHCHU26JUET&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5A4KSYQHCHU.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1 3.3
+- img
+- text: (13)
+- link "₹395 ₹998 60% off":
+  - /url: /guggu-dev69-ba127-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itma9cb76f54c06f?pid=CPRGV5A4KSYQHCHU&lid=LSTCPRGV5A4KSYQHCHU26JUET&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5A4KSYQHCHU.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "HSR Plastic and Stainless Steel 1L Automatic Yogurt Maker Yogurt Maker":
+  - /url: /hsr-plastic-stainless-steel-1l-automatic-yogurt-maker/p/itm0bc1c784bacfc?pid=FDMFC9WH3MBACMHN&lid=LSTFDMFC9WH3MBACMHNO0SOS6&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFC9WH3MBACMHN.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "HSR Plastic and Stainless Steel 1L Automatic Yogurt Maker Yogurt Maker"
+  - img
+- link "HSR Plastic and Stainless Steel 1L Automatic Yogurt Mak...":
+  - /url: /hsr-plastic-stainless-steel-1l-automatic-yogurt-maker/p/itm0bc1c784bacfc?pid=FDMFC9WH3MBACMHN&lid=LSTFDMFC9WH3MBACMHNO0SOS6&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFC9WH3MBACMHN.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Pink 4.1
+- img
+- text: (1,132)
+- img
+- link "₹500 ₹1,199 58% off":
+  - /url: /hsr-plastic-stainless-steel-1l-automatic-yogurt-maker/p/itm0bc1c784bacfc?pid=FDMFC9WH3MBACMHN&lid=LSTFDMFC9WH3MBACMHNO0SOS6&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFC9WH3MBACMHN.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left
+- link "HSR 1L Automatic Yogurt Maker Yogurt Maker":
+  - /url: /hsr-1l-automatic-yogurt-maker/p/itm0bc1c784bacfc?pid=FDMGY78PM3ZURXK4&lid=LSTFDMGY78PM3ZURXK45W8S6Z&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMGY78PM3ZURXK4.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "HSR 1L Automatic Yogurt Maker Yogurt Maker"
+  - img
+- link "HSR 1L Automatic Yogurt Maker Yogurt Maker":
+  - /url: /hsr-1l-automatic-yogurt-maker/p/itm0bc1c784bacfc?pid=FDMGY78PM3ZURXK4&lid=LSTFDMGY78PM3ZURXK45W8S6Z&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMGY78PM3ZURXK4.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Pink 4.1
+- img
+- text: (1,132)
+- img
+- link "₹461 ₹1,199 61% off":
+  - /url: /hsr-1l-automatic-yogurt-maker/p/itm0bc1c784bacfc?pid=FDMGY78PM3ZURXK4&lid=LSTFDMGY78PM3ZURXK45W8S6Z&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMGY78PM3ZURXK4.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left
+- link "GUGGU DEV62_BA120-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper":
+  - /url: /guggu-dev62-ba120-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itmc0663eedf78e3?pid=CPRGV5C22HCGH6D7&lid=LSTCPRGV5C22HCGH6D7TFYQRS&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5C22HCGH6D7.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "GUGGU DEV62_BA120-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper"
+  - img
+- link "GUGGU DEV62_BA120-Electric Wireless Garlic Chopper For ...":
+  - /url: /guggu-dev62-ba120-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itmc0663eedf78e3?pid=CPRGV5C22HCGH6D7&lid=LSTCPRGV5C22HCGH6D7TFYQRS&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5C22HCGH6D7.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1 4.2
+- img
+- text: (5)
+- link "₹370 ₹998 62% off":
+  - /url: /guggu-dev62-ba120-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itmc0663eedf78e3?pid=CPRGV5C22HCGH6D7&lid=LSTCPRGV5C22HCGH6D7TFYQRS&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5C22HCGH6D7.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "EVETIS Automatic 1L Portable Yogurt Making Machine Stainless Steel Container Dahi Maker Yogurt Maker":
+  - /url: /evetis-automatic-1l-portable-yogurt-making-machine-stainless-steel-container-dahi-maker/p/itmfcfa68067f13f?pid=FDMGHVZHHQY6RTHE&lid=LSTFDMGHVZHHQY6RTHE8NNTCJ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4pB8SNydzBHPCYWIwHafd6UljWkbrj4QYD15XBZJlQSw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "EVETIS Automatic 1L Portable Yogurt Making Machine Stainless Steel Container Dahi Maker Yogurt Maker"
+  - img
+- img
+- link "EVETIS Automatic 1L Portable Yogurt Making Machine Stai...":
+  - /url: /evetis-automatic-1l-portable-yogurt-making-machine-stainless-steel-container-dahi-maker/p/itmfcfa68067f13f?pid=FDMGHVZHHQY6RTHE&lid=LSTFDMGHVZHHQY6RTHE8NNTCJ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4pB8SNydzBHPCYWIwHafd6UljWkbrj4QYD15XBZJlQSw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Multicolor 3.9
+- img
+- text: (524)
+- link "₹410 ₹1,499 72% off":
+  - /url: /evetis-automatic-1l-portable-yogurt-making-machine-stainless-steel-container-dahi-maker/p/itmfcfa68067f13f?pid=FDMGHVZHHQY6RTHE&lid=LSTFDMGHVZHHQY6RTHE8NNTCJ&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4pB8SNydzBHPCYWIwHafd6UljWkbrj4QYD15XBZJlQSw%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "Alibaba Pearl Electric Kettle (2L, Silver) & 550 W Mixer Grinder":
+  - /url: /alibaba-pearl-electric-kettle-2l-silver-550-w-mixer-grinder/p/itm263475beaaabd?pid=MIXGTVTFTGPVKUFE&lid=LSTMIXGTVTFTGPVKUFEUEJM92&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4P-YMaLEI80o6sP3f6izPMXDaXXiRbpU8zlQr-WU9Pwg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Alibaba Pearl Electric Kettle (2L, Silver) & 550 W Mixer Grinder"
+  - img
+- img
+- link "Alibaba Pearl Electric Kettle (2L, Silver) & 550 W Mixe...":
+  - /url: /alibaba-pearl-electric-kettle-2l-silver-550-w-mixer-grinder/p/itm263475beaaabd?pid=MIXGTVTFTGPVKUFE&lid=LSTMIXGTVTFTGPVKUFEUEJM92&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4P-YMaLEI80o6sP3f6izPMXDaXXiRbpU8zlQr-WU9Pwg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Starlet Super Combo 750 W Magic Dry Iron (White, Green), | 4 Jars | White & Sea Green 4
+- img
+- text: (2,576)
+- img
+- link "₹2,003 ₹4,999 59% off":
+  - /url: /alibaba-pearl-electric-kettle-2l-silver-550-w-mixer-grinder/p/itm263475beaaabd?pid=MIXGTVTFTGPVKUFE&lid=LSTMIXGTVTFTGPVKUFEUEJM92&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4P-YMaLEI80o6sP3f6izPMXDaXXiRbpU8zlQr-WU9Pwg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Deal of the Day
+- link "HSR Electric Automatic Yogurt Maker Mini Portable Yogurt Making Machine Stainless Steel Container with Lid Kitchen Appliance Yogurt Maker":
+  - /url: /hsr-electric-automatic-yogurt-maker-mini-portable-making-machine-stainless-steel-container-lid-kitchen-appliance/p/itm0bc1c784bacfc?pid=FDMFGDAJPVM8Q9MR&lid=LSTFDMFGDAJPVM8Q9MRZL0YAE&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFGDAJPVM8Q9MR.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "HSR Electric Automatic Yogurt Maker Mini Portable Yogurt Making Machine Stainless Steel Container with Lid Kitchen Appliance Yogurt Maker"
+  - img
+- link "HSR Electric Automatic Yogurt Maker Mini Portable Yogur...":
+  - /url: /hsr-electric-automatic-yogurt-maker-mini-portable-making-machine-stainless-steel-container-lid-kitchen-appliance/p/itm0bc1c784bacfc?pid=FDMFGDAJPVM8Q9MR&lid=LSTFDMFGDAJPVM8Q9MRZL0YAE&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFGDAJPVM8Q9MR.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Pink 4.1
+- img
+- text: (1,132)
+- img
+- link "₹495 ₹899 44% off":
+  - /url: /hsr-electric-automatic-yogurt-maker-mini-portable-making-machine-stainless-steel-container-lid-kitchen-appliance/p/itm0bc1c784bacfc?pid=FDMFGDAJPVM8Q9MR&lid=LSTFDMFGDAJPVM8Q9MRZL0YAE&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFGDAJPVM8Q9MR.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "elina home appliances EHA-LWC25P Pink Wireless USB Chopper Electric Vegetable & Fruit Chopper Currently unavailable":
+  - /url: /elina-home-appliances-eha-lwc25p-pink-wireless-usb-chopper-electric-vegetable-fruit/p/itm1357d1b5a2a03?pid=CPRHYRHDKNAVCGFZ&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRHYRHDKNAVCGFZ.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "elina home appliances EHA-LWC25P Pink Wireless USB Chopper Electric Vegetable & Fruit Chopper"
+  - text: Currently unavailable
+  - img
+- link "elina home appliances EHA-LWC25P Pink Wireless USB Chop...":
+  - /url: /elina-home-appliances-eha-lwc25p-pink-wireless-usb-chopper-electric-vegetable-fruit/p/itm1357d1b5a2a03?pid=CPRHYRHDKNAVCGFZ&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRHYRHDKNAVCGFZ.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1U USB Wireless Chopper, 1U Charging Cable, 1U Manual cum Warranty Card
+- 'link "Price: Not Available"':
+  - /url: /elina-home-appliances-eha-lwc25p-pink-wireless-usb-chopper-electric-vegetable-fruit/p/itm1357d1b5a2a03?pid=CPRHYRHDKNAVCGFZ&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRHYRHDKNAVCGFZ.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- link "KENT Atta & Bread Maker 16010 Bread Maker":
+  - /url: /kent-atta-bread-maker-16010/p/itmeuhr5gfpxjftj?pid=BMREUHR5HQZGSYXJ&lid=LSTBMREUHR5HQZGSYXJW7QMFT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_7JRinAUPoHaL6In0DljW05ifrPsRvKSmiRi-NnsCgUbwcUswXbLIZYgfzYDvsZw8s%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "KENT Atta & Bread Maker 16010 Bread Maker"
+  - img
+- img
+- link "KENT Atta & Bread Maker 16010 Bread Maker":
+  - /url: /kent-atta-bread-maker-16010/p/itmeuhr5gfpxjftj?pid=BMREUHR5HQZGSYXJ&lid=LSTBMREUHR5HQZGSYXJW7QMFT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_7JRinAUPoHaL6In0DljW05ifrPsRvKSmiRi-NnsCgUbwcUswXbLIZYgfzYDvsZw8s%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Grey 4.1
+- img
+- text: (936)
+- img
+- link "₹6,999 ₹10,000 30% off":
+  - /url: /kent-atta-bread-maker-16010/p/itmeuhr5gfpxjftj?pid=BMREUHR5HQZGSYXJ&lid=LSTBMREUHR5HQZGSYXJW7QMFT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_7JRinAUPoHaL6In0DljW05ifrPsRvKSmiRi-NnsCgUbwcUswXbLIZYgfzYDvsZw8s%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "KenBerry HANDY COOK Multi Cooker Electric Kettle":
+  - /url: /kenberry-handy-cook-multi-cooker-electric-kettle/p/itm7e4628e388db2?pid=EKTFP76NAGEVHGEF&lid=LSTEKTFP76NAGEVHGEFCTYNA5&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4nHGHuNBWSiXrOmqkXZjDh9ObJ12zz0Atorhk1seHF_A%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "KenBerry HANDY COOK Multi Cooker Electric Kettle"
+  - img
+- img
+- link "KenBerry HANDY COOK Multi Cooker Electric Kettle":
+  - /url: /kenberry-handy-cook-multi-cooker-electric-kettle/p/itm7e4628e388db2?pid=EKTFP76NAGEVHGEF&lid=LSTEKTFP76NAGEVHGEFCTYNA5&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4nHGHuNBWSiXrOmqkXZjDh9ObJ12zz0Atorhk1seHF_A%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1.5 L, Silver 4.1
+- img
+- text: (11,006)
+- img
+- link "₹1,178 ₹1,895 37% off":
+  - /url: /kenberry-handy-cook-multi-cooker-electric-kettle/p/itm7e4628e388db2?pid=EKTFP76NAGEVHGEF&lid=LSTEKTFP76NAGEVHGEFCTYNA5&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_4nHGHuNBWSiXrOmqkXZjDh9ObJ12zz0Atorhk1seHF_A%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "PAVITRA ENTERPRISE Electric Vegetable & Fruit Grater & Slicer":
+  - /url: /pavitra-enterprise-electric-vegetable-fruit-grater-slicer/p/itm129176581caaa?pid=CPRFN9AF5YHKNHVM&lid=LSTCPRFN9AF5YHKNHVM0SN29P&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRFN9AF5YHKNHVM.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "PAVITRA ENTERPRISE Electric Vegetable & Fruit Grater & Slicer"
+  - img
+- link "PAVITRA ENTERPRISE Electric Vegetable & Fruit Grater & ...":
+  - /url: /pavitra-enterprise-electric-vegetable-fruit-grater-slicer/p/itm129176581caaa?pid=CPRFN9AF5YHKNHVM&lid=LSTCPRFN9AF5YHKNHVM0SN29P&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRFN9AF5YHKNHVM.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1 Pcs 2.8
+- img
+- text: (8)
+- img
+- link "₹486 ₹999 51% off":
+  - /url: /pavitra-enterprise-electric-vegetable-fruit-grater-slicer/p/itm129176581caaa?pid=CPRFN9AF5YHKNHVM&lid=LSTCPRFN9AF5YHKNHVM0SN29P&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRFN9AF5YHKNHVM.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left
+- link "KeepCart Electric Automatic Yogurt Maker Stainless Steel Container with Lid Kitchen Appliance Yogurt Maker (Multi colour) Food Steamer":
+  - /url: /keepcart-electric-automatic-yogurt-maker-stainless-steel-container-lid-kitchen-appliance-multi-colour-food-steamer/p/itm772eea39e21e6?pid=FDMFW5YZJEHYHHCA&lid=LSTFDMFW5YZJEHYHHCAM5QB93&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFW5YZJEHYHHCA.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "KeepCart Electric Automatic Yogurt Maker Stainless Steel Container with Lid Kitchen Appliance Yogurt Maker (Multi colour) Food Steamer"
+  - img
+- link "KeepCart Electric Automatic Yogurt Maker Stainless Stee...":
+  - /url: /keepcart-electric-automatic-yogurt-maker-stainless-steel-container-lid-kitchen-appliance-multi-colour-food-steamer/p/itm772eea39e21e6?pid=FDMFW5YZJEHYHHCA&lid=LSTFDMFW5YZJEHYHHCAM5QB93&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFW5YZJEHYHHCA.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Multicolor 4.1
+- img
+- text: (115)
+- link "₹492 ₹1,299 62% off":
+  - /url: /keepcart-electric-automatic-yogurt-maker-stainless-steel-container-lid-kitchen-appliance-multi-colour-food-steamer/p/itm772eea39e21e6?pid=FDMFW5YZJEHYHHCA&lid=LSTFDMFW5YZJEHYHHCAM5QB93&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.FDMFW5YZJEHYHHCA.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Hot Deal
+- link "GUGGU DEV63_BA121-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper":
+  - /url: /guggu-dev63-ba121-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itm490a4dda04fd8?pid=CPRGV5BFZK55HBER&lid=LSTCPRGV5BFZK55HBERXAR7HO&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5BFZK55HBER.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "GUGGU DEV63_BA121-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper"
+  - img
+- link "GUGGU DEV63_BA121-Electric Wireless Garlic Chopper For ...":
+  - /url: /guggu-dev63-ba121-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itm490a4dda04fd8?pid=CPRGV5BFZK55HBER&lid=LSTCPRGV5BFZK55HBERXAR7HO&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5BFZK55HBER.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: "1"
+- link "₹370 ₹998 62% off":
+  - /url: /guggu-dev63-ba121-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itm490a4dda04fd8?pid=CPRGV5BFZK55HBER&lid=LSTCPRGV5BFZK55HBERXAR7HO&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5BFZK55HBER.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left
+- link "GUGGU DEV68_BA126-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper":
+  - /url: /guggu-dev68-ba126-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itm8e709ffa2bfe7?pid=CPRGV5B3RYV3DQW6&lid=LSTCPRGV5B3RYV3DQW6FOZZDC&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5B3RYV3DQW6.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "GUGGU DEV68_BA126-Electric Wireless Garlic Chopper For Vegetable and Fruits Electric Vegetable & Fruit Chopper"
+  - img
+- link "GUGGU DEV68_BA126-Electric Wireless Garlic Chopper For ...":
+  - /url: /guggu-dev68-ba126-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itm8e709ffa2bfe7?pid=CPRGV5B3RYV3DQW6&lid=LSTCPRGV5B3RYV3DQW6FOZZDC&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5B3RYV3DQW6.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: "1"
+- link "₹411 ₹998 58% off":
+  - /url: /guggu-dev68-ba126-electric-wireless-garlic-chopper-vegetable-fruits-electric-fruit/p/itm8e709ffa2bfe7?pid=CPRGV5B3RYV3DQW6&lid=LSTCPRGV5B3RYV3DQW6FOZZDC&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRGV5B3RYV3DQW6.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left
+- link "InstaCuppa Electric Chopper with 3 Attachments - GarlicPeeler, SS Chopping Blades,EggBeater Electric Vegetable & Fruit Chopper":
+  - /url: /instacuppa-electric-chopper-3-attachments-garlicpeeler-ss-chopping-blades-eggbeater-vegetable-fruit/p/itm286d33afa43d2?pid=CPRGGN42YBYDWHZQ&lid=LSTCPRGGN42YBYDWHZQY6MZNI&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5Yb9SJXjcwm51_XPQDjjQk3SW1v5wk9towFQta2mp-pg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "InstaCuppa Electric Chopper with 3 Attachments - GarlicPeeler, SS Chopping Blades,EggBeater Electric Vegetable & Fruit Chopper"
+  - img
+- img
+- link "InstaCuppa Electric Chopper with 3 Attachments - Garlic...":
+  - /url: /instacuppa-electric-chopper-3-attachments-garlicpeeler-ss-chopping-blades-eggbeater-vegetable-fruit/p/itm286d33afa43d2?pid=CPRGGN42YBYDWHZQ&lid=LSTCPRGGN42YBYDWHZQY6MZNI&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5Yb9SJXjcwm51_XPQDjjQk3SW1v5wk9towFQta2mp-pg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1N Electric Chopper, 1N Garlic Peeler, 1N Vegetable Cutter, 1N Egg Whisker 4.1
+- img
+- text: (587)
+- img
+- link "₹2,499":
+  - /url: /instacuppa-electric-chopper-3-attachments-garlicpeeler-ss-chopping-blades-eggbeater-vegetable-fruit/p/itm286d33afa43d2?pid=CPRGGN42YBYDWHZQ&lid=LSTCPRGGN42YBYDWHZQY6MZNI&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_5Yb9SJXjcwm51_XPQDjjQk3SW1v5wk9towFQta2mp-pg%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- link "iBELL SEK170BM 1.7L Premium Kettle, Stainless Steel with Coating, Auto Cut-Off, 1500W Electric Kettle":
+  - /url: /ibell-sek170bm-1-7l-premium-kettle-stainless-steel-coating-auto-cut-off-1500w-electric-kettle/p/itm34337fb2c105d?pid=EKTGJYB9BTZRPNTN&lid=LSTEKTGJYB9BTZRPNTNIMO8K7&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_771qBnasFH5H_OQXX_meYXuSu5zoGOsyszvqZt3LIrsQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "iBELL SEK170BM 1.7L Premium Kettle, Stainless Steel with Coating, Auto Cut-Off, 1500W Electric Kettle"
+  - img
+- img
+- link "iBELL SEK170BM 1.7L Premium Kettle, Stainless Steel wit...":
+  - /url: /ibell-sek170bm-1-7l-premium-kettle-stainless-steel-coating-auto-cut-off-1500w-electric-kettle/p/itm34337fb2c105d?pid=EKTGJYB9BTZRPNTN&lid=LSTEKTGJYB9BTZRPNTNIMO8K7&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_771qBnasFH5H_OQXX_meYXuSu5zoGOsyszvqZt3LIrsQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1.7 L, Black, Silver 4.1
+- img
+- text: (4,066)
+- img
+- link "₹895 ₹1,950 54% off":
+  - /url: /ibell-sek170bm-1-7l-premium-kettle-stainless-steel-coating-auto-cut-off-1500w-electric-kettle/p/itm34337fb2c105d?pid=EKTGJYB9BTZRPNTN&lid=LSTEKTGJYB9BTZRPNTNIMO8K7&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_laURLs7D-kXlzbSn7mBjj0ryHCPCqaKjnPDntmg1e_771qBnasFH5H_OQXX_meYXuSu5zoGOsyszvqZt3LIrsQ%3D%3D&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Bank Offer
+- link "elina home appliances EHA-LWC25B Black Wireless USB Chopper Electric Vegetable & Fruit Chopper Currently unavailable":
+  - /url: /elina-home-appliances-eha-lwc25b-black-wireless-usb-chopper-electric-vegetable-fruit/p/itm21291ec805a9b?pid=CPRHYRHE5J3VYWFS&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRHYRHE5J3VYWFS.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "elina home appliances EHA-LWC25B Black Wireless USB Chopper Electric Vegetable & Fruit Chopper"
+  - text: Currently unavailable
+  - img
+- link "elina home appliances EHA-LWC25B Black Wireless USB Cho...":
+  - /url: /elina-home-appliances-eha-lwc25b-black-wireless-usb-chopper-electric-vegetable-fruit/p/itm21291ec805a9b?pid=CPRHYRHE5J3VYWFS&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRHYRHE5J3VYWFS.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1U USB Wireless Chopper, 1U Charging Cable, 1U Manual cum Warranty Card
+- 'link "Price: Not Available"':
+  - /url: /elina-home-appliances-eha-lwc25b-black-wireless-usb-chopper-electric-vegetable-fruit/p/itm21291ec805a9b?pid=CPRHYRHE5J3VYWFS&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPRHYRHE5J3VYWFS.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- link "Rudraksh Enterprises Chopping Master Electric Chopper":
+  - /url: /rudraksh-enterprises-chopping-master-electric-chopper/p/itmepzgvzaunbvns?pid=CPREPZGVZM2RCHZT&lid=LSTCPREPZGVZM2RCHZTJJIYIT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPREPZGVZM2RCHZT.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+  - img "Rudraksh Enterprises Chopping Master Electric Chopper"
+  - img
+- link "Rudraksh Enterprises Chopping Master Electric Chopper":
+  - /url: /rudraksh-enterprises-chopping-master-electric-chopper/p/itmepzgvzaunbvns?pid=CPREPZGVZM2RCHZT&lid=LSTCPREPZGVZM2RCHZTJJIYIT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPREPZGVZM2RCHZT.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: 1 Chopper, 1 Whipping Blade 3.8
+- img
+- text: (9)
+- link "₹1,392 ₹1,999 30% off":
+  - /url: /rudraksh-enterprises-chopping-master-electric-chopper/p/itmepzgvzaunbvns?pid=CPREPZGVZM2RCHZT&lid=LSTCPREPZGVZM2RCHZTJJIYIT&marketplace=FLIPKART&q=kitchen+appliances&store=j9e%2Fm38&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=d417852d-effd-488b-acd9-043e82359851.CPREPZGVZM2RCHZT.SEARCH&ppt=sp&ppn=sp&ssid=vv11oimazk0000001751525348981&qH=da7e1072ac06a381
+- text: Only few left Page 1 of 544
+- navigation:
+  - link "1":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=1
+  - link "2":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+  - link "3":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=3
+  - link "4":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=4
+  - link "5":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=5
+  - link "6":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=6
+  - link "7":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=7
+  - link "8":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=8
+  - link "9":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=9
+  - link "10":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=10
+  - link "Next":
+    - /url: /search?q=kitchen+appliances&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+- text: Did you find what you were looking for? Yes No Reviews for Popular Kitchen Appliances
+- img "Venus Electronic Digital Kitchen Weight Machine Food Baking, Health 10 kg Weighing Scale"
+- link "1. Venus Electronic Digital Ki... 3.9 2,381 Ratings&129 Reviews ₹349 78% off":
+  - /url: /venus-electronic-digital-kitchen-weight-machine-food-baking-health-10-kg-weighing-scale/p/itm28345cdf3a58f?pid=WSLGG56NAZZGNEY7&marketplace=FLIPKART
+  - text: 1. Venus Electronic Digital Ki... 3.9
+  - img
+  - text: 2,381 Ratings&129 Reviews ₹349 78% off
+- list:
+  - listitem: Kitchen with Digital Display
+  - listitem: "Measures in: KG, g"
+  - listitem: "Material: Plastic"
+- text: Most Helpful Review 4
+- img
+- paragraph: Worth the money
+- text: Satisfied product. Started from 1gm. Love it.
+- paragraph: Mustakim Hossain
+- img
+- paragraph: Certified Buyer
+- paragraph: Nov, 2022
+- text: Recent Review 1
+- img
+- paragraph: Not recommended at all
+- text: Charger will be blasted with in some days
+- paragraph: Chenna Rajesh
+- img
+- paragraph: Certified Buyer
+- paragraph: 27 days ago
+- img "SKYTONE by skytone Stainless Steel Electric 3 Liter Meat Grinders with Bowl 700W Food Chopper Electric Vegetable & Fruit Chopper"
+- link "2. SKYTONE by skytone Stainles... 4 4,259 Ratings&291 Reviews ₹1,594 46% off":
+  - /url: /skytone-stainless-steel-electric-3-liter-meat-grinders-bowl-700w-food-chopper-vegetable-fruit/p/itm09dfa4b6723d2?pid=CPRGHJ2WHCEGWNNB&marketplace=FLIPKART
+  - text: 2. SKYTONE by skytone Stainles... 4
+  - img
+  - text: 4,259 Ratings&291 Reviews ₹1,594 46% off
+- list:
+  - listitem: "Blade Material: Stainless Steel"
+  - listitem: "Made of: Stainless Steel"
+  - listitem: "Type: Chopper"
+- text: Most Helpful Review 4
+- img
+- paragraph: Value-for-money
+- text: Good electric chopper I am using it in my restaurant for MOMOs, Manchurian and many more Chinese food items, daily basis no complain since form last 2 months... Read full review
+- paragraph: Pronay sharma
+- img
+- paragraph: Certified Buyer
+- paragraph: Mar, 2023
+- text: Recent Review 5
+- img
+- paragraph: Excellent
+- text: The product is very good 👍 go for it
+- paragraph: Shaista Khan
+- img
+- paragraph: Certified Buyer
+- paragraph: 5 days ago
+- img "KENT Atta & Bread Maker 16010 Bread Maker"
+- link "3. KENT Atta & Bread Maker 160... 4.1 936 Ratings&123 Reviews ₹6,999 30% off":
+  - /url: /kent-atta-bread-maker-16010/p/itmeuhr5gfpxjftj?pid=BMREUHR5HQZGSYXJ&marketplace=FLIPKART
+  - text: 3. KENT Atta & Bread Maker 160... 4.1
+  - img
+  - text: 936 Ratings&123 Reviews ₹6,999 30% off
+- text: Most Helpful Review 5
+- img
+- paragraph: Just wow!
+- text: Superb, I made delicious bread. Also good for kneading atta for Chappathi and Poori.
+- paragraph: Syed Mohamed Ashiq
+- img
+- paragraph: Certified Buyer
+- paragraph: Jul, 2020
+- text: Recent Review 1
+- img
+- paragraph: Horrible
+- text: The bread is not fermenting at a
+- paragraph: Sourabh Jain
+- img
+- paragraph: Certified Buyer
+- paragraph: 10 days ago
+- img "KENT 400 W Silver Hand Blender"
+- link "4. KENT 400 W Silver Hand Blen... 4.2 15,175 Ratings&1,481 Reviews ₹1,299 38% off":
+  - /url: /kent-400-w-silver-hand-blender/p/itm7ba16e71074e7?pid=HBLFG7YEXPGFHERS&marketplace=FLIPKART
+  - text: 4. KENT 400 W Silver Hand Blen... 4.2
+  - img
+  - text: 15,175 Ratings&1,481 Reviews ₹1,299 38% off
+- list:
+  - listitem: "Type: Hand Blender"
+- text: Most Helpful Review 5
+- img
+- paragraph: Great product
+- text: Such a Powerful blender guys! I tried making coconut and peanut chatni with this blender n boom... it was done within few minutes!!! It's stainless body an... Read full review
+- paragraph: Flipkart Customer
+- img
+- paragraph: Certified Buyer
+- paragraph: Jul, 2020
+- text: Recent Review 1
+- img
+- paragraph: Horrible
+- text: I am unable to understand why only two electronic kitchen appliances are not been shown on my screen . This product also falls in this,so there is no way t... Read full review
+- paragraph: Tarunabh Sonal
+- img
+- paragraph: Certified Buyer
+- paragraph: 10 days ago
+- img "ZunVolt 1.5L Electric Kettle"
+- link "5. ZunVolt 1.5L Electric Kettl... 4 28,847 Ratings&2,264 Reviews ₹649 27% off":
+  - /url: /zunvolt-1-5l-electric-kettle/p/itme44fb74b59879?pid=EKTGNRGWKCPZWRHX&marketplace=FLIPKART
+  - text: 5. ZunVolt 1.5L Electric Kettl... 4
+  - img
+  - text: 28,847 Ratings&2,264 Reviews ₹649 27% off
+- list:
+  - listitem: "Material: Stainless Steel"
+  - listitem: Water, Tea & Soups
+- text: Most Helpful Review 4
+- img
+- paragraph: Good quality product
+- text: Its an very nice product in low rate
+- paragraph: Prem Lata Malviya
+- img
+- paragraph: Certified Buyer
+- paragraph: Jan, 2022
+- text: Recent Review 1
+- img
+- paragraph: Unsatisfactory
+- text: Don like this portal
+- paragraph: Priya Mallick
+- img
+- paragraph: Certified Buyer
+- paragraph: 7 days ago
+- contentinfo:
+  - text: ABOUT
+  - link "Contact Us":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - link "About Us":
+    - /url: https://corporate.flipkart.net/corporate-home
+  - link "Careers":
+    - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+  - link "Flipkart Stories":
+    - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+  - link "Press":
+    - /url: http://stories.flipkart.com/category/top-stories/news/
+  - link "Corporate Information":
+    - /url: /corporate-information
+  - text: GROUP COMPANIES
+  - link "Myntra":
+    - /url: https://www.myntra.com/
+  - link "Cleartrip":
+    - /url: https://www.cleartrip.com/
+  - link "Shopsy":
+    - /url: https://www.shopsy.in/
+  - text: HELP
+  - link "Payments":
+    - /url: /pages/payments
+  - link "Shipping":
+    - /url: /pages/shipping
+  - link "Cancellation & Returns":
+    - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+  - link "FAQ":
+    - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+  - text: CONSUMER POLICY
+  - link "Cancellation & Returns":
+    - /url: /pages/returnpolicy?otracker=footer_navlinks
+  - link "Terms Of Use":
+    - /url: /pages/terms?otracker=footer_navlinks
+  - link "Security":
+    - /url: /pages/paymentsecurity?otracker=footer_navlinks
+  - link "Privacy":
+    - /url: /pages/privacypolicy?otracker=footer_navlinks
+  - link "Sitemap":
+    - /url: /sitemap?otracker=footer_navlinks
+  - link "Grievance Redressal":
+    - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+  - link "EPR Compliance":
+    - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+  - text: "Mail Us:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - text: Social
+  - link:
+    - /url: https://www.facebook.com/flipkart
+    - img
+  - link:
+    - /url: https://www.twitter.com/flipkart
+    - img
+  - link:
+    - /url: https://www.youtube.com/flipkart
+    - img
+  - link:
+    - /url: https://www.instagram.com/flipkart
+    - img
+  - text: "Registered Office Address:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - paragraph: "CIN : U51109KA2012PTC066107"
+  - paragraph:
+    - text: "Telephone:"
+    - link "044-45614700":
+      - /url: tel:044-45614700
+    - text: /
+    - link "044-67415800":
+      - /url: tel:044-67415800
+  - img
+  - link "Become a Seller":
+    - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+  - img
+  - link "Advertise":
+    - /url: https://brands.flipkart.com
+  - img
+  - link "Gift Cards":
+    - /url: /the-gift-card-store?otracker=footer_navlinks
+  - img
+  - link "Help Center":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - text: © 2007-2025 Flipkart.com
+  - img
+```

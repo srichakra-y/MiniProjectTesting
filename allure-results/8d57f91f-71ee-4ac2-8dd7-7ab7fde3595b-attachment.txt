@@ -1,0 +1,4 @@
+Cart total after first item is added  ₹505
+Updated cart total after adding the second item 4223
+Net total after applying all charges and discounts 4223
+Amount is Properly Calculated
